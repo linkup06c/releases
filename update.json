@@ -1,11 +1,8 @@
-{
-  "ativo": true,
-  "updates": [
-    {
-      "version": "8.5",
-      "name": "NexBrowser Pro",
-      "apkUrl": "https://seu-servidor.com/app-v8.5.apk",
-      "iconUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/icon.png"
-    }
-  ]
-}
+[
+  {
+    "version": "1.1",
+    "name": "NexBrowser",
+    "apkUrl": "https://raw.githubusercontent.com/linkup06c/releases/main/seu_app.apk",
+    "iconUrl": ""
+  }
+]
