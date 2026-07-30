@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Servidor Principal (Render)",
+    "name": "Servidor Principal",
     "wsUrl": "wss://x-stream-56ya.onrender.com",
     "httpUrl": "https://x-stream-56ya.onrender.com",
-    "iconNormal": "M12 2C6.48...",
-    "iconActive": "M12 2C6.48...",
+    "iconNormal": "",
+    "iconActive": "",
     "isDefault": true
   },
   {
@@ -13,8 +13,17 @@
     "name": "Servidor Secundário",
     "wsUrl": "wss://x-stm.onrender.com",
     "httpUrl": "https://x-stm.onrender.com",
-    "iconNormal": "M12 2C6.48...",
-    "iconActive": "M12 2C6.48...",
+    "iconNormal": "",
+    "iconActive": "",
+    "isDefault": false
+  },
+  {
+    "id": 3,
+    "name": "Servidor Alternativo",
+    "wsUrl": "wss://nexo-zjk4.onrender.com",
+    "httpUrl": "https://nexo-zjk4.onrender.com",
+    "iconNormal": "",
+    "iconActive": "",
     "isDefault": false
   }
 ]
