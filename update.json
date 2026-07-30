@@ -1,8 +1,8 @@
 [
   {
     "version": "1.1",
-    "name": "NexBrowser4",
-    "apkUrl": "https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2019/10/5dbb6f0ebe80b/llc.vizer_3.2-19_minAPI21%28nodpi%29_apkmirror.com.apk?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20260730%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260730T125904Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=3b05215b8b14b481f7be4c3cbe808f319987919a203244b2482903567377a90b",
+    "name": "NexBrowser",
+    "apkUrl": "https://github.com/IhsanDevs/Android-Reverse-Engineering-Toolkits/blob/main/MT%20Manager%20VIP%202.9.9.apk",
     "iconUrl": ""
   }
 ]
