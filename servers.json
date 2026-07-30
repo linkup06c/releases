@@ -4,6 +4,7 @@
     "name": "Servidor Principal",
     "wsUrl": "wss://x-stream-56ya.onrender.com",
     "httpUrl": "https://x-stream-56ya.onrender.com",
+    "description": "Alta velocidade • Recomendado",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "isDefault": true,
     "password": ""
@@ -13,17 +14,9 @@
     "name": "Servidor Secundário",
     "wsUrl": "wss://x-stm.onrender.com",
     "httpUrl": "https://x-stm.onrender.com",
+    "description": "Boa estabilidade",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "isDefault": false,
     "password": "minhasenhasecreta"
-  },
-  {
-    "id": 3,
-    "name": "Servidor Alternativo",
-    "wsUrl": "wss://nexo-zjk4.onrender.com",
-    "httpUrl": "https://nexo-zjk4.onrender.com",
-    "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
-    "isDefault": false,
-    "password": ""
   }
 ]
