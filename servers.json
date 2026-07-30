@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Servidor Principal (Render)",
+    "wsUrl": "wss://x-stream-56ya.onrender.com",
+    "httpUrl": "https://x-stream-56ya.onrender.com",
+    "iconNormal": "M12 2C6.48...",
+    "iconActive": "M12 2C6.48...",
+    "isDefault": true
+  },
+  {
+    "id": 2,
+    "name": "Servidor Secundário",
+    "wsUrl": "wss://x-stm.onrender.com",
+    "httpUrl": "https://x-stm.onrender.com",
+    "iconNormal": "M12 2C6.48...",
+    "iconActive": "M12 2C6.48...",
+    "isDefault": false
+  }
+]
