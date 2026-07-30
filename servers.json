@@ -6,7 +6,8 @@
     "httpUrl": "https://x-stream-56ya.onrender.com",
     "iconNormal": "",
     "iconActive": "",
-    "isDefault": true
+    "isDefault": true,
+    "password": ""
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "httpUrl": "https://x-stm.onrender.com",
     "iconNormal": "",
     "iconActive": "",
-    "isDefault": false
+    "isDefault": false,
+    "password": "minhasenhasecreta"
   },
   {
     "id": 3,
@@ -24,6 +26,7 @@
     "httpUrl": "https://nexo-zjk4.onrender.com",
     "iconNormal": "",
     "iconActive": "",
-    "isDefault": false
+    "isDefault": false,
+    "password": ""
   }
 ]
