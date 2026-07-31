@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Servidor Principal",
+    "name": "Smart TV Plus",
     "wsUrl": "wss://x-stream-56ya.onrender.com",
     "httpUrl": "https://x-stream-56ya.onrender.com",
-    "description": "Alta velocidade • Recomendado",
+    "description": "Sessão via Browser",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "iconActive": "",
     "isDefault": true,
@@ -12,24 +12,24 @@
   },
   {
     "id": 2,
-    "name": "Servidor Secundário",
+    "name": "Sessão de Joaquim",
     "wsUrl": "wss://x-stm.onrender.com",
     "httpUrl": "https://x-stm.onrender.com",
-    "description": "Boa estabilidade",
+    "description": "Serviço privativo",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "iconActive": "",
     "isDefault": false,
-    "password": "minhasenhasecreta"
+    "password": "joaquim1998c"
   },
   {
     "id": 3,
-    "name": "Servidor Alternativo",
+    "name": "Sessão de Wallker",
     "wsUrl": "wss://nexo-zjk4.onrender.com",
     "httpUrl": "https://nexo-zjk4.onrender.com",
-    "description": "Rota de backup",
+    "description": "Serviço privativo",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "iconActive": "",
     "isDefault": false,
-    "password": ""
+    "password": "wallxnip"
   }
 ]
