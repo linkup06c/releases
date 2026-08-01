@@ -12,14 +12,14 @@
   },
   {
     "id": 2,
-    "name": "Joaquim",
-    "wsUrl": "wss://x-stm.onrender.com",
-    "httpUrl": "https://x-stm.onrender.com",
+    "name": "Jaqueline 💛",
+    "wsUrl": "wss://x-stm2.onrender.com",
+    "httpUrl": "https://x-stm2.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
     "iconActive": "",
     "isDefault": false,
-    "password": "joaquim1998c"
+    "password": ""
   },
   {
     "id": 3,
@@ -31,17 +31,7 @@
     "iconActive": "",
     "isDefault": false,
     "password": "wallxnip"
-  },
-  {
-    "id": 4,
-    "name": "Jaqueline 💛",
-    "wsUrl": "wss://x-stm2.onrender.com",
-    "httpUrl": "https://x-stm2.onrender.com",
-    "description": "Privado",
-    "iconNormal": "https://i.postimg.cc/d07gNm2G/fvr.webp",
-    "iconActive": "",
-    "isDefault": false,
-    "password": ""
   }
+  
   
 ]
