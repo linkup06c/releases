@@ -7,7 +7,7 @@
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/bwRZZ0Pc/D.webp",
     "iconActive": "",
-    "isDefault": true,
+    "isDefault": false,
     "password": "srmarttv+"
   },
   {
@@ -17,9 +17,9 @@
     "httpUrl": "https://x-stm2.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/BQLbC9GD/J.webp",
-    "iconActive": "19992016",
+    "iconActive": "",
     "isDefault": false,
-    "password": ""
+    "password": "19992016"
   },
   {
     "id": 3,
