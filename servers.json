@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Zenith",
+    "name": "Smart TV+",
     "wsUrl": "wss://x-stream-56ya.onrender.com",
     "httpUrl": "https://x-stream-56ya.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/bwRZZ0Pc/D.webp",
     "iconActive": "",
     "isDefault": false,
-    "password": "srmarttv+"
+    "password": "smarttv+"
   },
   {
     "id": 2,
