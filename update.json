@@ -21,13 +21,23 @@
 
   "apks": [
     {
-      "version": "1.1",
+      "version": "1.2",
       "name": "Navegador+",
       "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/NEXPLAY%2B.apk",
       "iconUrl": "",
       "forceUpdate": true,
       "category": "atualizacao"
     },
+
+    {
+      "version": "1.1",
+      "name": "Navegador+",
+      "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/NEXPLAY%2B.apk",
+      "iconUrl": "",
+      "forceUpdate": false,
+      "category": "atualizacao"
+    },
+
     {
       "version": "1.2-beta",
       "name": "MT Manager Beta",
