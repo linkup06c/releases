@@ -26,6 +26,7 @@
       "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/NEXPLAY%2B.apk",
       "iconUrl": "",
       "forceUpdate": true,
+      "bannerUrl": "",
       "category": "atualizacao"
     },
 
@@ -34,6 +35,7 @@
       "name": "Navegador+",
       "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/NEXPLAY%2B.apk",
       "iconUrl": "",
+      "bannerUrl": "",
       "forceUpdate": false,
       "category": "atualizacao"
     },
