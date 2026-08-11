@@ -9,10 +9,16 @@
       "nome": "Atualizações"
     },
     {
+      "id": "sistema",
+      "nome": "Sistema"
+    },
+    {
       "id": "beta",
-      "nome": "Betas"
+      "nome": "Aplicativos"
     }
   ],
+
+
   "apks": [
     {
       "version": "1.1",
@@ -29,6 +35,14 @@
       "iconUrl": "https://img.utdstc.com/icon/68d/64f/68d64f99521d2a57fc843c75521f7329d7ae38b3ea8c3f1a9ac6969e4a93e251:200",
       "forceUpdate": false,
       "category": "beta"
+    },
+    {
+      "version": "1.1.0",
+      "name": "Gerenciador de Sistema",
+      "apkUrl": "https://raw.githubusercontent.com/linkup06c/releases/main/system.apk",
+      "iconUrl": "",
+      "forceUpdate": false,
+      "category": "sistema"
     }
   ]
 }
