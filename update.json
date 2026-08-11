@@ -13,7 +13,7 @@
       "nome": "Sistema"
     },
     {
-      "id": "beta",
+      "id": "apps",
       "nome": "Aplicativos"
     }
   ],
@@ -34,7 +34,7 @@
       "apkUrl": "https://s1.rexdl.com/android/app/MT-Manager-Vip-Mod-2.14.5-3-www.ReXdl.com.apk",
       "iconUrl": "https://img.utdstc.com/icon/68d/64f/68d64f99521d2a57fc843c75521f7329d7ae38b3ea8c3f1a9ac6969e4a93e251:200",
       "forceUpdate": false,
-      "category": "beta"
+      "category": "apps"
     },
     {
       "version": "1.1.0",
