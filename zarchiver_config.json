@@ -1,11 +1,6 @@
 {
   "categorias": [
     {
-      "id": "todos",
-      "nome": "Todos",
-      "iconUrl": ""
-    },
-    {
       "id": "atualizacao",
       "nome": "Atualizações",
       "iconUrl": ""
