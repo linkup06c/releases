@@ -2,19 +2,23 @@
   "categorias": [
     {
       "id": "todos",
-      "nome": "Todos"
+      "nome": "Todos",
+      "iconUrl": ""
     },
     {
       "id": "atualizacao",
-      "nome": "Atualizações"
+      "nome": "Atualizações",
+      "iconUrl": ""
     },
     {
       "id": "softwares",
-      "nome": "Softwares"
+      "nome": "Softwares",
+      "iconUrl": ""
     },
     {
       "id": "apps",
-      "nome": "Aplicativos"
+      "nome": "Aplicativos",
+      "iconUrl": ""
     }
   ],
   "files": [
