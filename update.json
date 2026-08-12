@@ -21,9 +21,9 @@
 
   "apks": [
     {
-      "version": "1.1",
+      "version": "1.2",
       "name": "Navegador+",
-      "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/NEXPLAY%2B.apk",
+      "apkUrl": "https://pub-a384c7ff61e54479b2bc601c3930cded.r2.dev/releases/NEXPLAY.apk",
       "iconUrl": "",
       "forceUpdate": true,
       "bannerUrl": "",
