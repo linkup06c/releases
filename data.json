@@ -1,0 +1,23 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "title": "Daily Mix 01",
+      "subtitle": "Jhef, Dan Lellis, Tribo da Periferia e mais",
+      "coverUrl": "https://example.com/cover1.jpg",
+      "tracks": [
+        { "title": "Música 1", "artist": "Artista A", "url": "https://link-da-musica-1.mp3" },
+        { "title": "Música 2", "artist": "Artista B", "url": "https://link-da-musica-2.mp3" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Daily Mix 02",
+      "subtitle": "Marino, Jared Benjamin, KAO e mais",
+      "coverUrl": "https://example.com/cover2.jpg",
+      "tracks": [
+        { "title": "Música 3", "artist": "Artista C", "url": "https://link-da-musica-3.mp3" }
+      ]
+    }
+  ]
+}
