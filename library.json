@@ -453,7 +453,8 @@
       "title": "Lights & Beats",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/x11s6vqY/Lights-Beats.webp",
-      "songs": [{
+      "songs": [
+      {
           "title": "Hislerim",
           "artist": "Serhat Durmus, Zerrin",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Hislerim.mp3",
@@ -748,7 +749,8 @@
       "title": "Hip-Hop",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp",
-      "songs": [{
+      "songs": [
+      {
           "title": "Esquecer de Tudo",
           "artist": "Hip-Hop",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Esquecer de Tudo.mp3",
@@ -915,11 +917,6 @@
     {
       "title": "Temporal",
       "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp",
-      "songs": [
-      {
-      "title": "Temporal",
-      "creator": "W@llker",
       "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp",
       "songs": [
         {
@@ -1316,10 +1313,6 @@
       "title": "Summer (MIX)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
-      "songs": [{
-      "title": "Summer (MIX)",
-      "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
       "songs": [
         {
           "title": "Here Comes the Sun",
@@ -1454,11 +1447,6 @@
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp",
       "songs": [
-      {
-      "title": "Pisadinha do Vaqueiro",
-      "creator": "W@llker",
-      "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp",
-      "songs": [
         {
           "title": "Estilo Capa Loka",
           "artist": "Francildo Silva",
@@ -1532,11 +1520,6 @@
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp",
       "songs": [
-      {
-      "title": "Axé das Antigas",
-      "creator": "W@llker",
-      "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp",
-      "songs": [
         {
           "title": "Eu Quero Só Você",
           "artist": "Kiko Chicabana",
@@ -1568,11 +1551,6 @@
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp",
       "songs": [
-      {
-      "title": "Sky Love do Forró",
-      "creator": "W@llker",
-      "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp",
-      "songs": [
         {
           "title": "Lua",
           "artist": "Sky Love",
@@ -1596,11 +1574,6 @@
     {
       "title": "Apaixonado Sempre",
       "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp",
-      "songs": [
-      {
-      "title": "Robério e Seus Teclados",
-      "creator": "W@llker",
       "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp",
       "songs": [
         {
@@ -1759,7 +1732,8 @@
       "title": "Funk Brasill",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/05dqmswD/Cara-Bacana.webp",
-      "songs": [{
+      "songs": [
+      {
           "title": "Agora É Tudo Meu",
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Agora é Tudo Meu.mp3",
@@ -1926,13 +1900,15 @@
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Você é Gostosa.mp3",
           "coverUrl": "https://i.postimg.cc/2SvJRpfc/Voce-e-Gostosa.webp"
-        }]
+        }
+        ]
     },
     {
       "title": "Velhos Tempos",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/vZQLL85f/Velhos-Tempos.webp",
-      "songs": [{
+      "songs": [
+      {
           "title": "Ela cansou",
           "artist": "Erreap",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Velhos Tempos/Ela cansou.mp3",
