@@ -34,10 +34,6 @@
       "title": "Bestiny",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/7hdyhNmP/Neffex.webp",
-      "songs": [{
-      "title": "NEFFEX",
-      "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/7hdyhNmP/Neffex.webp",
       "songs": [
         {
           "title": "Best of Me",
@@ -213,7 +209,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/NEFFEX/Trust Me.mp3",
           "coverUrl": "https://i.postimg.cc/7hdyhNmP/Neffex.webp"
         }
-        ]
+      ]
     },
     {
       "title": "New World",
@@ -609,7 +605,8 @@
       "title": "Drilland",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/85J3d5YQ/Drilland.webp",
-      "songs": [{
+      "songs": [
+      {
           "title": "MOOD",
           "artist": "Drilland",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Melodic Drill Type/MOOD.mp3",
