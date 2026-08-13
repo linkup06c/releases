@@ -1,0 +1,107 @@
+{
+  "albums": [
+    {
+      "title": "KLB 2000",
+      "artist": "KLB",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp",
+      "songs": [
+        {
+          "title": "Giuliana",
+          "artist": "KLB",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Giuliana.mp3",
+          "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+        }
+      ]
+    }
+  ],
+  "playlists": [
+    {
+      "title": "Lançamentos 2026",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/htJsffrJ/boss.webp",
+      "songs": [
+        {
+          "title": "Amor é Sexo",
+          "artist": "Hungria feat Tribo da Periferia",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Amor é Sexo.mp3",
+          "coverUrl": "https://i.postimg.cc/htJsffrJ/boss.webp"
+        },
+        {
+          "title": "Vaqueira",
+          "artist": "Milsinho Toque Dez",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Vaqueira.mp3",
+          "coverUrl": "https://lh3.googleusercontent.com/wGlM3Iy2hpWgMuj7ZrL_py3XGOAERS7nm1w1g3eyLe2hNOnVf9olYIwrkqS5qzzymouQxnXMRrgHfFhD=w544-h544-l90-rj"
+        },
+        {
+          "title": "190",
+          "artist": "Iohannes Imperador",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/190.mp3",
+          "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+        }
+      ]
+    },
+    {
+      "title": "Lights & Beats",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/RFyWqkDS/After-Dark.webp",
+      "songs": [
+        {
+          "title": "After Dark",
+          "artist": "Mr Kitty",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Mr.Kitty - After Dark.mp3",
+          "coverUrl": "https://i.postimg.cc/RFyWqkDS/After-Dark.webp"
+        },
+        {
+          "title": "That's Who I Praise",
+          "artist": "Brandon Lake",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/That's Who I Praise.mp3",
+          "coverUrl": "https://i.postimg.cc/76hgnk4H/That-s-Who-I-Praise.webp"
+        },
+        {
+          "title": "STAY",
+          "artist": "The Kid Laroi, Justin Bieber",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/STAY.mp3",
+          "coverUrl": "https://i.postimg.cc/4xtZn7Hr/Stay.webp"
+        }
+      ]
+    },
+    {
+      "title": "Funk (Deluxe)",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/hGYLsWKT/Iluminado.webp",
+      "songs": [
+        {
+          "title": "Iluminado",
+          "artist": "Kawe",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Iluminado.mp3",
+          "coverUrl": "https://i.postimg.cc/hGYLsWKT/Iluminado.webp"
+        },
+        {
+          "title": "Os Muleke É Liso",
+          "artist": "MC Rodolfinho",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Os Muleke É Liso.mp3",
+          "coverUrl": "https://i.postimg.cc/Gm5TGhrK/Os-Mlk-Liso.webp"
+        }
+      ]
+    },
+    {
+      "title": "Trilha Sonora",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/rFnxMb7N/RD.webp",
+      "songs": [
+        {
+          "title": "Quando posso te ver novamente?",
+          "artist": "Detona Ralph",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/Quando posso te ver novamente.mp3",
+          "coverUrl": "https://i.postimg.cc/rFnxMb7N/RD.webp"
+        },
+        {
+          "title": "Civilian",
+          "artist": "The Walking Dead",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/Civilian.mp3",
+          "coverUrl": "https://i.postimg.cc/1tv5Dx0Q/TWD.webp"
+        }
+      ]
+    }
+  ]
+}
