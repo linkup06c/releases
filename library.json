@@ -1,19 +1,4 @@
 {
-  "albums": [
-    {
-      "title": "KLB 2000",
-      "artist": "KLB",
-      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp",
-      "songs": [
-        {
-          "title": "Giuliana",
-          "artist": "KLB",
-          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Giuliana.mp3",
-          "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
-        }
-      ]
-    }
-  ],
   "playlists": [
     {
       "title": "Melodic Drill Type",
