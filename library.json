@@ -4,7 +4,32 @@
       "title": "Favoritas",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/d07gNm2G/fvr.webp",
-      "songs": []
+      "songs": [
+      {
+          "title": "Good Night",
+          "artist": "Dayystar",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Good Night.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Love Dies Slow",
+          "artist": "Dayystar",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Love Dies Slow.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Sunflower",
+          "artist": "Post Malone, Swae Lee",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Sunflower.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Let's Go",
+          "artist": "Post Malone, Beau Young Prince",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Let's Go.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        }
+      ]
     },
     {
       "title": "FlashBack",
@@ -19,10 +44,155 @@
       "songs": []
     },
     {
-      "title": "As Melhores",
+      "title": "Latina (MIX)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/g0DQcZxR/Latina.webp",
-      "songs": []
+      "songs": [
+      {
+          "title": "Blin Blin",
+          "artist": "DeGeA",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (Deluxe)/Blin Blin.mp3",
+          "coverUrl": "https://i.postimg.cc/TPSxFc6v/Blin-Blin.webp"
+        },
+        {
+          "title": "Sorry",
+          "artist": "Justin Bieber",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (Deluxe)/Sorry.mp3",
+          "coverUrl": "https://i.postimg.cc/g0DQcZxR/Latina.webp"
+        },
+        {
+          "title": "Tusa",
+          "artist": "Karol",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Tusa.mp3",
+          "coverUrl": "https://i.postimg.cc/W16f1s6Y/Tusa.webp"
+        },
+        {
+          "title": "Alguien Conmigo",
+          "artist": "CNCO",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Alguien Conmigo.mp3",
+          "coverUrl": "https://i.postimg.cc/nL6rDLJd/Alguien-Conmigo-cover-art.webp"
+        },
+        {
+          "title": "Baila Morena",
+          "artist": "Héctor & Tito",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Baila Morena.mp3",
+          "coverUrl": "https://i.postimg.cc/CxnVfsxw/Baila-Morena-cover-art.webp"
+        },
+        {
+          "title": "Borracho Y Loco",
+          "artist": "Yandel",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Borracho Y Loco.mp3",
+          "coverUrl": "https://i.postimg.cc/283sP7vn/Borracho-Y-Loco-cover-art.webp"
+        },
+        {
+          "title": "Calma",
+          "artist": "Pedro Capó & Farruko",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Calma.mp3",
+          "coverUrl": "https://i.postimg.cc/m205KfTh/Calma-cover-art.webp"
+        },
+        {
+          "title": "Danza Kuduro",
+          "artist": "Don Omar & Lucenzo",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Danza Kuduro.mp3",
+          "coverUrl": "https://i.postimg.cc/tggvxX5V/Danza-Kuduro-cover-art.webp"
+        },
+        {
+          "title": "Despacito",
+          "artist": "Luis Fonsi & Daddy Yankee",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Despacito.mp3",
+          "coverUrl": "https://i.postimg.cc/DZZ68B2V/Despacito-cover-art.webp"
+        },
+        {
+          "title": "El Perdón",
+          "artist": "Nicky Jam & Enrique Iglesias",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/El Perdón.mp3",
+          "coverUrl": "https://i.postimg.cc/kgTf90mM/El-Perdon-cover-art.webp"
+        },
+        {
+          "title": "La La La",
+          "artist": "Shakira",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/La La La.mp3",
+          "coverUrl": "https://i.postimg.cc/mgpNK7YT/La-La-La-cover-art.webp"
+        },
+        {
+          "title": "La Tortura",
+          "artist": "Shakira & Alejandro Sanz",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/La Tortura.mp3",
+          "coverUrl": "https://i.postimg.cc/x1ZM6nQN/La-Tortura-cover-art.webp"
+        },
+        {
+          "title": "Llamada",
+          "artist": "J Álvarez",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Llamada.mp3",
+          "coverUrl": "https://i.postimg.cc/qMz7jnvs/Llamada-cover-art.webp"
+        },
+        {
+          "title": "Llamada Perdida",
+          "artist": "Prince Royce",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Llamada Perdida.mp3",
+          "coverUrl": "https://i.postimg.cc/vZCxWh7t/Llamada-Perdida-cover-art.webp"
+        },
+        {
+          "title": "Me Equivoqué",
+          "artist": "CD9",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Me Equivoqué.mp3",
+          "coverUrl": "https://i.postimg.cc/RFSSfJ8B/Me-Equivoque-cover-art.webp"
+        },
+        {
+          "title": "Muriendo",
+          "artist": "KHEA",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Muriendo.mp3",
+          "coverUrl": "https://i.postimg.cc/rpcMXtM7/Muriendo-cover-art.webp"
+        },
+        {
+          "title": "No Hay Nada Imposible",
+          "artist": "Chayanne",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/No Hay Nada Imposible.mp3",
+          "coverUrl": "https://i.postimg.cc/Kj3dgZmD/No-Hay-Nada-Imposible-cover-art.webp"
+        },
+        {
+          "title": "Perro Fiel",
+          "artist": "Shakira & Nicky Jam",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Perro Fiel.mp3",
+          "coverUrl": "https://i.postimg.cc/7PTHz4sF/Perro-Fiel-cover-art.webp"
+        },
+        {
+          "title": "Rabiosa",
+          "artist": "Shakira & Pitbull",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Rabiosa.mp3",
+          "coverUrl": "https://i.postimg.cc/mkQW5bKT/Rabiosa-cover-art.webp"
+        },
+        {
+          "title": "Responde",
+          "artist": "Brytiago",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Responde.mp3",
+          "coverUrl": "https://i.postimg.cc/nLCbtKN3/Responde-cover-art.webp"
+        },
+        {
+          "title": "Sofia",
+          "artist": "Álvaro Soler",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Sofia.mp3",
+          "coverUrl": "https://i.postimg.cc/DwpH5Jm9/Sofia-cover-art.webp"
+        },
+        {
+          "title": "Solo Tu",
+          "artist": "CNCO",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Solo Tu.mp3",
+          "coverUrl": "https://i.postimg.cc/4NJ0gb9L/Solo-Tu-cover-art.webp"
+        },
+        {
+          "title": "Vem Dancar Kuduro",
+          "artist": "Latino",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Vem Dancar Kuduro.mp3",
+          "coverUrl": "https://i.postimg.cc/tT3r0YCb/Vem-Dancar-Kuduro-cover-art.webp"
+        },
+        {
+          "title": "Waiting for Tonight",
+          "artist": "Jennifer Lopez",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Waiting for Tonight.mp3",
+          "coverUrl": "https://i.postimg.cc/qMRGwmnT/Waiting-for-Tonight-cover-art.webp"
+        }
+      ]
     },
     {
       "title": "Meditação",
@@ -221,7 +391,20 @@
       "title": "Blue Sky",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/zvKSZJVn/Blue-Sky.webp",
-      "songs": []
+      "songs": [
+      {
+          "title": "Despre tine",
+          "artist": "O-Zone",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Blue Sky/Despre tine.mp3",
+          "coverUrl": "https://i.postimg.cc/nhDxyg1g/Despre-tine-cover-art.webp"
+        },
+        {
+          "title": "Dragostea Din Tei",
+          "artist": "O-Zone",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Blue Sky/Dragostea Din Tei.mp3",
+          "coverUrl": "https://i.postimg.cc/9MJHPhW0/Dragostea-Din-Tei-cover-art.webp"
+        }
+      ]
     },
     {
       "title": "Ritmo Quente",
@@ -233,14 +416,44 @@
       "title": "Coleção Especial",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/3rsGQQ0h/Walllker.webp",
-      "songs": []
+      "songs": [
+       {
+          "title": "Eae Mozão 2",
+          "artist": "DJ Ivis",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Eae Mozão 2.mp3",
+          "coverUrl": "https://i.postimg.cc/zDPFxLKN/Mozao2.webp"
+        },
+        {
+          "title": "Bebê Confesso 2",
+          "artist": "Mc Kadu, Veiga no Beat",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Bebê Confesso 2.mp3",
+          "coverUrl": "https://i.postimg.cc/0NhxQWK9/Bebe-Confesso-2-cover-art.webp"
+        },
+        {
+          "title": "Rebeca",
+          "artist": "MC Livinho",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Rebeca.mp3",
+          "coverUrl": "https://i.postimg.cc/25GCYN75/Rebeca.webp"
+        },
+        {
+          "title": "Te Amo Sem Compromisso",
+          "artist": "MC Don Juan",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Te Amo Sem Compromisso.mp3",
+          "coverUrl": "https://i.postimg.cc/0Qr1qMNc/Te-Amo-Sem-Compromisso.webp"
+        },
+        {
+          "title": "Veio pra Mudar",
+          "artist": "MC Davi",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Veio pra Mudar.mp3",
+          "coverUrl": "https://i.postimg.cc/05nPFwCq/Veio-pra-Mudar.webp"
+        }
+        ]
     },
     {
       "title": "Lights & Beats",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/x11s6vqY/Lights-Beats.webp",
-      "songs": [
-        {
+      "songs": [{
           "title": "Hislerim",
           "artist": "Serhat Durmus, Zerrin",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Hislerim.mp3",
@@ -408,7 +621,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Wherever You Are.mp3",
           "coverUrl": "https://i.postimg.cc/R0q6MsRq/Wherever-You-Are-cover-art.webp"
         }
-      ]
+        ]
     },
     {
       "title": "Crossover",
@@ -420,7 +633,110 @@
       "title": "Top Rock (Clássic)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp",
-      "songs": []
+      "songs": [
+      {
+          "title": "Baba O'Riley",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Baba O'Riley.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Be Somebody - Reignited",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Be Somebody - Reignited.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Bring Me To Life",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Bring Me To Life.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "21 Guns",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/21 Guns.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Burn It Down",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Burn It Down.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Castle Of Glass",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Castle Of Glass.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Crawling",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Crawling.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "How You Remind Me",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/How You Remind Me.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "In the End",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/In the End.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Numb",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Numb.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "On My Own",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/On My Own.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Rise Up",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Rise Up.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Wrecked",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Wrecked.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "What I've Done",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/What I've Done.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Wherever You Will Go",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Wherever You Will Go.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "Without You",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/Without You.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        },
+        {
+          "title": "It's My Life",
+          "artist": "Rock (Clássic)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/The Rock (Clássic)/It's My Life.mp3",
+          "coverUrl": "https://i.postimg.cc/nchyMbnj/TheRock.webp"
+        }
+      ]
     },
     {
       "title": "Funk (MIX)",
@@ -432,8 +748,7 @@
       "title": "Hip-Hop",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp",
-      "songs": [
-        {
+      "songs": [{
           "title": "Esquecer de Tudo",
           "artist": "Hip-Hop",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Esquecer de Tudo.mp3",
@@ -595,20 +910,69 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Escondido.mp3",
           "coverUrl": "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp"
         }
-      ]
+        ]
     },
     {
       "title": "Temporal",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Temporal",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp",
+      "songs": [
+        {
+          "title": "Another Love",
+          "artist": "Temporal",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/Another Love.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "Apocalypse",
+          "artist": "Temporal",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/Apocalypse.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "Dynasty",
+          "artist": "Temporal",
+          "fileUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/Dynasty.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "One More Light",
+          "artist": "Temporal",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/One More Light.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "Say Yes To Heaven",
+          "artist": "Temporal",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/Say Yes To Heaven.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "Royalty",
+          "artist": "Temporal",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/Royalty.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        },
+        {
+          "title": "In This Shirt",
+          "artist": "The Irrepressibles",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Temporal (Fluxo)/In This Shirt.mp3",
+          "coverUrl": "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+        }
+      ]
     },
     {
       "title": "Drilland",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/85J3d5YQ/Drilland.webp",
       "songs": [
-        {
+      {
           "title": "MOOD",
           "artist": "Drilland",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Melodic Drill Type/MOOD.mp3",
@@ -674,15 +1038,285 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Melodic Drill Type/SMILE.mp3",
           "coverUrl": "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
         }
-      ]
+        
+        ]
     },
     {
       "title": "EDM",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp",
-      "songs": []
+      "songs": [
+       {
+          "title": "Ma Chérie",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Ma Chérie.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Das Geht Boom",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Das Geht Boom.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Kiss Me",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Kiss Me.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Tired",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Tired.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "One More Night",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/One More Night.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Whistle",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Whistle.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Good Feeling",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Good Feeling.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "From Up Above",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/From Up Above.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Sorry",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Sorry.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Ghost",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Ghost.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "What Do You Mean",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/What Do You Mean.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Baby",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Baby.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Eenie Meenie",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Eenie Meenie.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "What the Hell",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/What the Hell.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Call Me Maybe",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Call Me Maybe.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Good Time",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Good Time.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Get Back",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Get Back.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Million",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Million.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Taste",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Taste.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Someone To You",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Someone To You.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Waka Waka",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Waka Waka.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "All My People",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/All My People.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Blinding Lights",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Blinding Lights.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Fiesta",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Fiesta.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Forever",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Forever.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Girl Like Me",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Girl Like Me.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Greedy",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Greedy.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Gypsy",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Gypsy.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Hangover",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Hangover.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Hotel Room Service",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Hotel Room Service.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "I Know You Want Me",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/I Know You Want Me.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "I Really Like You",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/I Really Like You.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "If You Believe",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/If You Believe.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "International Love",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/International Love.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Kiss You",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Kiss You.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Live Your Life",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Live Your Life.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Love Me Like You Do",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Love Me Like You Do.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "On The Floor",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/On The Floor.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Remember to Forget",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Remember to Forget.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Run Away With Me",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Run Away With Me.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Serve the Lord",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Serve the Lord.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Suave",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Suave.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Take Your Time",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Take Your Time.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        },
+        {
+          "title": "Tusa",
+          "artist": "Alone (EDM)",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Alone (EDM)/Tusa.mp3",
+          "coverUrl": "https://i.postimg.cc/nr78vkLG/Alone.webp"
+        }
+      ]
     },
     {
+      "title": "Summer (MIX)",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
+      "songs": [{
       "title": "Summer (MIX)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
@@ -795,7 +1429,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Summer (MIX)/You're Somebody Else.mp3",
           "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp"
         }
-      ]
+        ]
     },
     {
       "title": "As Melhores",
@@ -819,25 +1453,241 @@
       "title": "Pisadinha do Vaqueiro",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Pisadinha do Vaqueiro",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp",
+      "songs": [
+        {
+          "title": "Estilo Capa Loka",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Estilo Capa Loka.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Ela Kika Diferente",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Ela Kika Diferente.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Tara Louca",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Tara Louca.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Farra sem Limite",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Farra sem Limite.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Cavalo de um Milhão",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Cavalo de um Milhão.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Burguesinha",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Burguesinha.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Eu Nem Lembro",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Eu Nem Lembro.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Eu Tenho É Gratidão",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Eu Tenho É Gratidão.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Ronco Do Riacho",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Ronco Do Riacho.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Aliança",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Aliança.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        },
+        {
+          "title": "Colecionador de Porquês",
+          "artist": "Francildo Silva",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Pisadinha do Vaqueiro/Colecionador de Porquês.mp3",
+          "coverUrl": "https://i.postimg.cc/jjjgm19m/pisadinha.webp"
+        }
+        ]
     },
     {
-      "title": "Do Sunrise ao Sunset",
+      "title": "Axé das Antigas",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Axé das Antigas",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp",
+      "songs": [
+        {
+          "title": "Eu Quero Só Você",
+          "artist": "Kiko Chicabana",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Axé das Antigas/Eu Quero Só Você.mp3",
+          "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp"
+        },
+        {
+          "title": "Á Sua Maneira",
+          "artist": "Kiko Chicabana",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Axé das Antigas/Á Sua Maneira.mp3",
+          "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp"
+        },
+        {
+          "title": "Malandramente",
+          "artist": "Kiko Chicabana",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Axé das Antigas/Malandramente.mp3",
+          "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp"
+        },
+        {
+          "title": "Te Amo Sim",
+          "artist": "Kiko Chicabana",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Axé das Antigas/Te Amo Sim.mp3",
+          "coverUrl": "https://i.postimg.cc/C5xWN10Q/kiko.webp"
+        }
+      ]
     },
     {
       "title": "Sky Love do Forró",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Sky Love do Forró",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp",
+      "songs": [
+        {
+          "title": "Lua",
+          "artist": "Sky Love",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/Lua.mp3",
+          "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp"
+        },
+        {
+          "title": "2050",
+          "artist": "Sky Love",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/2050.mp3",
+          "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp"
+        },
+        {
+          "title": "Luana",
+          "artist": "Sky Love",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/Luana.mp3",
+          "coverUrl": "https://i.postimg.cc/DfXHdt1m/sky.webp"
+        }
+      ]
     },
     {
       "title": "Apaixonado Sempre",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Robério e Seus Teclados",
+      "creator": "W@llker",
+      "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp",
+      "songs": [
+        {
+          "title": "Te Quero Baby",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Te Quero Baby.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Casa Comigo",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Casa Comigo.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "A Lua",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/A Lua.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "São Paulo Espera",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/São Paulo Espera.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Atraso na pensão",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Atraso na pensão.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Lá Se Vai",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Lá Se Vai.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Oi",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Oi.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Capitão do Amor",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Capitão do Amor.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Alô no Ar",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Alô no Ar.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Ela É Toda Boa",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Ela É Toda Boa.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Não Vá (Pense Um Pouco Antes de Partir)",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Não Vá (Pense Um Pouco Antes de Partir).mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Procurando Casamento",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Procurando Casamento.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Recadinho",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Recadinho.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        },
+        {
+          "title": "Todo Atrapalhado",
+          "artist": "Robério e Seus Teclados",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Apaixonado Sempre/Todo Atrapalhado.mp3",
+          "coverUrl": "https://i.postimg.cc/J0RWNFsF/Roberio.webp"
+        }
+      ]
     },
     {
       "title": "Sofrencia",
@@ -909,8 +1759,7 @@
       "title": "Funk Brasill",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/05dqmswD/Cara-Bacana.webp",
-      "songs": [
-        {
+      "songs": [{
           "title": "Agora É Tudo Meu",
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Agora é Tudo Meu.mp3",
@@ -1077,15 +1926,13 @@
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Você é Gostosa.mp3",
           "coverUrl": "https://i.postimg.cc/2SvJRpfc/Voce-e-Gostosa.webp"
-        }
-      ]
+        }]
     },
     {
       "title": "Velhos Tempos",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/vZQLL85f/Velhos-Tempos.webp",
-      "songs": [
-        {
+      "songs": [{
           "title": "Ela cansou",
           "artist": "Erreap",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Velhos Tempos/Ela cansou.mp3",
@@ -1229,7 +2076,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Velhos Tempos/Vazio.mp3",
           "coverUrl": "https://i.postimg.cc/X7QGSzjx/Vazio-cover-art.webp"
         }
-      ]
+        ]
     }
   ]
 }
