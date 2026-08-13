@@ -239,7 +239,8 @@
       "title": "Lights & Beats",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/x11s6vqY/Lights-Beats.webp",
-      "songs": [{
+      "songs": [
+        {
           "title": "Hislerim",
           "artist": "Serhat Durmus, Zerrin",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Hislerim.mp3",
@@ -407,7 +408,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Wherever You Are.mp3",
           "coverUrl": "https://i.postimg.cc/R0q6MsRq/Wherever-You-Are-cover-art.webp"
         }
-        ]
+      ]
     },
     {
       "title": "Crossover",
@@ -431,7 +432,8 @@
       "title": "Hip-Hop",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp",
-      "songs": [{
+      "songs": [
+        {
           "title": "Esquecer de Tudo",
           "artist": "Hip-Hop",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Esquecer de Tudo.mp3",
@@ -593,7 +595,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Escondido.mp3",
           "coverUrl": "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp"
         }
-        ]
+      ]
     },
     {
       "title": "Temporal",
@@ -606,7 +608,7 @@
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/85J3d5YQ/Drilland.webp",
       "songs": [
-      {
+        {
           "title": "MOOD",
           "artist": "Drilland",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Melodic Drill Type/MOOD.mp3",
@@ -672,8 +674,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Melodic Drill Type/SMILE.mp3",
           "coverUrl": "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
         }
-        
-        ]
+      ]
     },
     {
       "title": "EDM",
@@ -682,10 +683,6 @@
       "songs": []
     },
     {
-      "title": "Summer (MIX)",
-      "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
-      "songs": [{
       "title": "Summer (MIX)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp",
@@ -798,7 +795,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Summer (MIX)/You're Somebody Else.mp3",
           "coverUrl": "https://i.postimg.cc/J44t5H8J/Summer.webp"
         }
-        ]
+      ]
     },
     {
       "title": "As Melhores",
@@ -912,7 +909,8 @@
       "title": "Funk Brasill",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/05dqmswD/Cara-Bacana.webp",
-      "songs": [{
+      "songs": [
+        {
           "title": "Agora É Tudo Meu",
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Agora é Tudo Meu.mp3",
@@ -1079,13 +1077,15 @@
           "artist": "MC Kevin o Chris",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Você é Gostosa.mp3",
           "coverUrl": "https://i.postimg.cc/2SvJRpfc/Voce-e-Gostosa.webp"
-        }]
+        }
+      ]
     },
     {
       "title": "Velhos Tempos",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/vZQLL85f/Velhos-Tempos.webp",
-      "songs": [{
+      "songs": [
+        {
           "title": "Ela cansou",
           "artist": "Erreap",
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Velhos Tempos/Ela cansou.mp3",
@@ -1229,7 +1229,7 @@
           "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Velhos Tempos/Vazio.mp3",
           "coverUrl": "https://i.postimg.cc/X7QGSzjx/Vazio-cover-art.webp"
         }
-        ]
+      ]
     }
   ]
 }
