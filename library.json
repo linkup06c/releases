@@ -1,5 +1,192 @@
 {
   "playlists": [
+  {
+      "title": "Lançamentos",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/jjYfD3dB/lancamentos.webp",
+      "songs": [
+      {
+      "title": "Amor é Sexo",
+      "artist": "Hungria  feat  Tribo da Periferia",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Hip-Hop (2025)/Amor é Sexo.mp3",
+      "coverUrl": "https://i.postimg.cc/htJsffrJ/boss.webp"
+    },
+    {
+      "title": "Giuliana",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Giuliana.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Vaqueira",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Vaqueira.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/wGlM3Iy2hpWgMuj7ZrL_py3XGOAERS7nm1w1g3eyLe2hNOnVf9olYIwrkqS5qzzymouQxnXMRrgHfFhD=w544-h544-l90-rj"
+    },
+    {
+      "title": "190",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/190.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Samara",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Samara.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Aquele Love",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Aquele Love.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/fGWWEBHU2QOFRFxkEzR482sU3jV1V9H1DdF-4uQukD1yT6_DgWqTfqqcieEySaNyABgFVY1CKkX6xEtV=w544-h544-l90-rj"
+    },
+    {
+      "title": "Porta aberta",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Porta aberta.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
+    },
+    {
+      "title": "Olhar 43",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Olhar 43.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Você é Mó Bagunçada",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Você é mó bagunçada.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/A5P8syU_D0iwghdja2Xt43DM-izKGXjHH3DiPpSiccYMT82J53pNHT_idV49bJw_indjrU3P-4dpMyII=w544-h544-l90-rj"
+    },
+    {
+      "title": "Sou Louco Por Ela",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Sou Louco Por Ela.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Me Deixa Doidona",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Me Deixa Doidona.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Pane no Sistema",
+      "artist": "Grego do Piseiro & Paulo Pires",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Pane no Sistema.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/CwFnVlWDyolBLFyrzRX9JEdE52gmzdjDKGG3wotLNb8hISPOWFrmHJ-Nm5fkMH94T36-apTnvykwTos6Dw=w544-h544-l90-rj"
+    },
+    {
+      "title": "Tô nem aí",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Tô nem aí.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
+    },
+    {
+      "title": "A Cada Dez Palavras",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/A Cada Dez Palavras.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Pensa Direito",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Pensa direito.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/wGlM3Iy2hpWgMuj7ZrL_py3XGOAERS7nm1w1g3eyLe2hNOnVf9olYIwrkqS5qzzymouQxnXMRrgHfFhD=w544-h544-l90-rj"
+    },
+    {
+      "title": "Batom Vermelho",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Batom Vermelho.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Menina Pavoro",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Menina Pavorô.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Cheiro de Mato",
+      "artist": "Gabi Saiury, Kotim & MC Paiva ZS",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Cheiro de Mato.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/3Z3v-mLTZ99X48pJbEqZg0njWCqtM3jLyAZsmfGaZLo6NHNf0JCNHnpJ4srXFYN-080rriauclckziI=w544-h544-l90-rj"
+    },
+    {
+      "title": "Céu de Diamantes",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Céu de Diamantes.mp3",
+      "coverUrl": "https://i.postimg.cc/QMCdBpM5/luka.webp"
+    },
+    {
+      "title": "A Dor Desse Amor",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/A Dor Desse Amor.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Fabricada na Roça",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Fabricada na Roça.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/8dpVCNgAmSWgf8ZjSbV6Bl-po-8Lqgjiix20Nvp5ixIUudK6fPmc4LogoMu6Y-6WllW5ysHTG9pSzUTPDQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Na Linha do Tempo",
+      "artist": "Victor & Leo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Na Linha do Tempo.mp3",
+      "coverUrl": "https://i.postimg.cc/Ssh3BdCh/Na-Linha-do-Tempo.webp"
+    },
+    {
+      "title": "Querendo ou Não",
+      "artist": "Gabi Saiury, Japinha Conde & Jonatas Nascimento",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Querendo ou Não.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/OyyaVucCCKttbJj8bsm-VDhd1MOX9eHDL7vTvmXhU7Sja3Qcaim3ZgjRmcFtcCyA5uqRO1ntgRHvbQQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Destino",
+      "artist": "Lucas Lucco",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Destino.mp3",
+      "coverUrl": "https://i.postimg.cc/wTZfKFY2/Destino.webp"
+    },
+    {
+      "title": "Farra É Pra Quem Pode",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Farra É Pra Quem Pode.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Duas",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Duas.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Nosso Quadro",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Nosso Quadro.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Casa de Milhões",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Casa de Milhões.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Depois do Universo",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Depois do Universo.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Chuva",
+      "artist": "João Bosco & Vinicius",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Chuva.mp3",
+      "coverUrl": "https://i.postimg.cc/t4fHMF2K/Chuva.webp"
+    }
+      ]
+    },
     {
       "title": "Favoritas",
       "creator": "Wallker",
@@ -35,13 +222,69 @@
       "title": "FlashBack",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/KvX8g3cg/Flash-Back.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Girls Just Want to Have Fun.mp3",
+      "coverUrl": "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
+    },
+    {
+      "title": "Tarzan Boy",
+      "artist": "Baltimora",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Tarzan Boy.mp3",
+      "coverUrl": "https://i.postimg.cc/v80QT4BQ/Baltimora.webp"
+    },
+    {
+      "title": "Dreams (Will Come Alive)",
+      "artist": "2 Brothers On The 4th Floor",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Dreams (Will Come Alive).mp3",
+      "coverUrl": "https://i.postimg.cc/VN5C5x9J/2-Brothers-On-The-4th-Floor.webp"
+    },
+    {
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Time After Time.mp3",
+      "coverUrl": "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
+    },
+    {
+      "title": "Your Love",
+      "artist": "The Outfield",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Your Love.mp3",
+      "coverUrl": "https://i.postimg.cc/4333BpmZ/The-Outfield.webp"
+    },
+    {
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Like a Virgin.mp3",
+      "coverUrl": "https://i.postimg.cc/zX0n2G3X/Like-a-Virgin.webp"
+    },
+    {
+      "title": "Don't Stop Believin",
+      "artist": "Journey",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Don't Stop Believin.mp3",
+      "coverUrl": "https://i.postimg.cc/R0qg9bNs/Journey.webp"
+    }
+      ]
     },
     {
       "title": "Rei do Universo",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/FFdLycDz/js.webp",
-      "songs": []
+      "songs": [
+       {
+      "title": "Um Novo Ser",
+      "artist": "Hikari de Jesus",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Oh Rei do Universo Jesus ✞/Um Novo Ser.mp3",
+      "coverUrl": "https://i.postimg.cc/FFdLycDz/js.webp"
+    },
+    {
+      "title": "Minha Verdadeira Sorte",
+      "artist": "Eterno Som",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Oh Rei do Universo Jesus ✞/Minha Verdadeira Sorte.mp3",
+      "coverUrl": "https://i.postimg.cc/FFdLycDz/js.webp"
+    }
+      ]
     },
     {
       "title": "Latina (MIX)",
@@ -198,7 +441,20 @@
       "title": "Meditação",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/g2jTYgGg/Zentopia.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Som de Água (Relaxantes)",
+      "artist": "Zentopia",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Zentopia/Som de Água (Relaxantes).mp3",
+      "coverUrl": "https://i.postimg.cc/g2jTYgGg/Zentopia.webp"
+    },
+    {
+      "title": "Meditação Guiada (Som de Chuva)",
+      "artist": "Zentopia",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Zentopia/Meditação Guiada (Som de Chuva).mp3",
+      "coverUrl": "https://i.postimg.cc/g2jTYgGg/Zentopia.webp"
+    }
+      ]
     },
     {
       "title": "Bestiny",
@@ -385,7 +641,230 @@
       "title": "New World",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/50DdM1k0/wallxnyp.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Pandora",
+      "artist": "David Win",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Pandora.mp3",
+      "coverUrl": "https://i.postimg.cc/br7hWvrz/Pandora.webp"
+    },
+    {
+      "title": "I Regret You",
+      "artist": "Bree Taylor",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/I Regret You.mp3",
+      "coverUrl": "https://i.postimg.cc/vm4dY9ns/BT.webp"
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Sorry.mp3",
+      "coverUrl": "https://i.postimg.cc/BvB2vLGt/Sorry.webp"
+    },
+    {
+      "title": "Ghost",
+      "artist": "Justin Bieber",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Ghost.mp3",
+      "coverUrl": "https://i.postimg.cc/zG177R5k/ghost.webp"
+    },
+    {
+      "title": "Kiss Me",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Kiss Me.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Better Days",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Better Days.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Numb",
+      "artist": "Marshmello, Khalid",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Numb.mp3",
+      "coverUrl": "https://i.postimg.cc/y8FQCyvN/Apple-Music-Marshmello-Khalid-Numb-Single-1-2.webp"
+    },
+    {
+      "title": "Girls in Luv",
+      "artist": "DJane HouseKat feat. Rameez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Girls in Luv.mp3",
+      "coverUrl": "https://i.postimg.cc/Jz16mBg6/Girls-in-Luv.webp"
+    },
+    {
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Good Feeling.mp3",
+      "coverUrl": "https://i.postimg.cc/QM7Wyfb6/FD.webp"
+    },
+    {
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Whistle.mp3",
+      "coverUrl": "https://i.postimg.cc/hvYDgB4D/FRW.webp"
+    },
+    {
+      "title": "Hear Me Now",
+      "artist": "Alok,feat Zeeba",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Hear Me Now.mp3",
+      "coverUrl": "https://i.postimg.cc/ydk6Gxsg/Alok.webp"
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Blinding Lights.mp3",
+      "coverUrl": "https://i.postimg.cc/bwCKBTJG/TWB.webp"
+    },
+    {
+      "title": "Das Geht Boom",
+      "artist": "Harris & Ford, Gordon & Doyle, Lisah",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Das Geht Boom.mp3",
+      "coverUrl": "https://i.postimg.cc/wxrR9KGQ/hz.webp"
+    },
+    {
+      "title": "From Up Above",
+      "artist": "Twinjabi",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/From Up Above.mp3",
+      "coverUrl": "https://i.postimg.cc/6503TDHg/Twinjabi.webp"
+    },
+    {
+      "title": "Greedy",
+      "artist": "Tate McRae",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Greedy.mp3",
+      "coverUrl": "https://i.postimg.cc/SxPmMqc7/GY.webp"
+    },
+    {
+      "title": "Hislerim",
+      "artist": "Serhat Durmus, Zerrin",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Hislerim.mp3",
+      "coverUrl": "https://i.postimg.cc/W1BQV4GN/HZ.webp"
+    },
+    {
+      "title": "Ma Chérie",
+      "artist": "DJ Antoine, The Beatshakers",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Ma Chérie.mp3",
+      "coverUrl": "https://i.postimg.cc/hG5zLB41/DJA.webp"
+    },
+    {
+      "title": "There For Me",
+      "artist": "Braaten & Victor Perry",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/There For Me.mp3",
+      "coverUrl": "https://i.postimg.cc/QdPhSx5b/There-For-Me.webp"
+    },
+    {
+      "title": "Burn",
+      "artist": "Ellie Goulding",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Burn.mp3",
+      "coverUrl": "https://i.postimg.cc/j28G5Z4g/Ellie-Goulding-Burn-Album.webp"
+    },
+    {
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/She Doesn't Mind.mp3",
+      "coverUrl": "https://i.postimg.cc/nzFRDqz7/Sean-Paul-She-Doesn-t-Mind-Dj-Pamen-Remix.webp"
+    },
+    {
+      "title": "What The Hell",
+      "artist": "Avril Lavigne",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/What The Hell.mp3",
+      "coverUrl": "https://i.postimg.cc/4yK16PT9/wth.webp"
+    },
+    {
+      "title": "Girl On The Moon",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Girl On The Moon.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/Naya-Ruby.webp"
+    },
+    {
+      "title": "One More Night",
+      "artist": "Lost Frequencies",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/One More Night.mp3",
+      "coverUrl": "https://i.postimg.cc/JzPVd7kS/omn.webp"
+    },
+    {
+      "title": "Don't Leave Me Now",
+      "artist": "Lost Frequencies",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Don't Leave Me Now.mp3",
+      "coverUrl": "https://i.postimg.cc/zv0VfZQH/Lost-Frequencies.webp"
+    },
+    {
+      "title": "Play",
+      "artist": "Alan Walker & Tungevaag",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Play.mp3",
+      "coverUrl": "https://i.postimg.cc/43jJB4DF/Play.webp"
+    },
+    {
+      "title": "Knockout",
+      "artist": "Tungevaag",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Knockout.mp3",
+      "coverUrl": "https://i.postimg.cc/KYfPMVCT/1000479222-2.webp"
+    },
+    {
+      "title": "Make You Happy",
+      "artist": "Tungevaag",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Make You Happy.mp3",
+      "coverUrl": "https://i.postimg.cc/KYfPMVCT/1000479222-2.webp"
+    },
+    {
+      "title": "Kingdoms",
+      "artist": "Tungevaag & Jay Hardway",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Kingdoms.mp3",
+      "coverUrl": "https://i.postimg.cc/KYfPMVCT/1000479222-2.webp"
+    },
+    {
+      "title": "Tusa",
+      "artist": "Karol",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Tusa.mp3",
+      "coverUrl": "https://i.postimg.cc/W16f1s6Y/Tusa.webp"
+    },
+    {
+      "title": "Tired",
+      "artist": "Alan Walker",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Tired.mp3",
+      "coverUrl": "https://i.postimg.cc/d3fcnwSD/Tired.webp"
+    },
+    {
+      "title": "One More Light",
+      "artist": "Linkin Park",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/One More Light.mp3",
+      "coverUrl": "https://i.postimg.cc/MHHvvZQ8/One-More-Light.webp"
+    },
+    {
+      "title": "Apocalypse",
+      "artist": "Cigarette After",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Apocalypse.mp3",
+      "coverUrl": "https://i.postimg.cc/9QdFXwnT/Apocalypse.webp"
+    },
+    {
+      "title": "Dynasty",
+      "artist": "Miia",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Dynasty.mp3",
+      "coverUrl": "https://i.postimg.cc/Gtjnwv2J/Dynasty.webp"
+    },
+    {
+      "title": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Say Yes To Heaven.mp3",
+      "coverUrl": "https://i.postimg.cc/Pxh6G98c/Yes-To-Heaven.webpg"
+    },
+    {
+      "title": "Royalty",
+      "artist": "Egzod, Maestro Chives, Neoni",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Royalty.mp3",
+      "coverUrl": "https://i.postimg.cc/8CbRv5jd/Egzod-on-TIDAL.webp"
+    },
+    {
+      "title": "Lovely",
+      "artist": "Billie Eilish",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Lovely.mp3",
+      "coverUrl": "https://i.postimg.cc/J41Gyqbr/Beauty-Plus-20251008155100417-save-1.webp"
+    },
+    {
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Let Me Down Slowly.mp3",
+      "coverUrl": "https://i.postimg.cc/3wjsDgXC/LMDS.webp"
+    }
+      ]
     },
     {
       "title": "Blue Sky",
@@ -410,7 +889,32 @@
       "title": "Ritmo Quente",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/tC9m8QYH/2000.webp",
-      "songs": []
+      "songs": [
+      {
+        "title": "Amor de Chocolate",
+        "artist": "Naldo Benny",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Amor de Chocolate.mp3",
+        "coverUrl": "https://i.postimg.cc/JnPBnkcM/Amor-de-Chocolate-cover-art.webp"
+      },
+      {
+        "title": "Dança Kuduro",
+        "artist": "Daddy Kall feat Latino",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Dança Kuduro.mp3",
+        "coverUrl": "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+      },
+      {
+        "title": "Festa no Apê",
+        "artist": "Latino",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Festa no Apê.mp3",
+        "coverUrl": "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+      },
+      {
+        "title": "Renata",
+        "artist": "Latino",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Renata.mp3",
+        "coverUrl": "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+      }
+      ]
     },
     {
       "title": "Coleção Especial",
@@ -624,11 +1128,235 @@
         }
         ]
     },
+        
     {
       "title": "Crossover",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp",
-      "songs": []
+      "songs": [
+     {
+      "title": "Trilha Sonora",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/rFnxMb7N/RD.webp
+      "songs": [
+    {
+      "title": "Quando posso te ver novamente?",
+      "artist": "Detona Ralph",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/Quando posso te ver novamente.mp3",
+      "coverUrl": "https://i.postimg.cc/rFnxMb7N/RD.webp"
+    },
+    {
+      "title": "Civilian",
+      "artist": "The Walking Dead",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/Civilian.mp3",
+      "coverUrl": "https://i.postimg.cc/1tv5Dx0Q/TWD.webp"
+    },
+    {
+      "title": "Serpents",
+      "artist": "The Walking Dead",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/Serpents.mp3",
+      "coverUrl": "https://i.postimg.cc/1tv5Dx0Q/TWD.webp"
+    },
+    {
+      "title": "The Last Pale Light In the West",
+      "artist": "The Walking Dead",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Music (TS)/The Last Pale Light In the West.mp3",
+      "coverUrl": "https://i.postimg.cc/1tv5Dx0Q/TWD.webp"
+    }
+    ]
+    },
+    
+    
+    {
+      "title": "TOP Funk",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/q7Vd6Ps5/Pedrinho.webp",
+      "songs": [
+      {
+      "title": "Iluminado",
+      "artist": "Kawe",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Iluminado.mp3",
+      "coverUrl": "https://i.postimg.cc/hGYLsWKT/Iluminado.webp"
+    },
+    {
+      "title": "Os Muleke E Liso",
+      "artist": "MC Rodolfinho",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Os Muleke É Liso.mp3",
+      "coverUrl": "https://i.postimg.cc/Gm5TGhrK/Os-Mlk-Liso.webp"
+    },
+    {
+      "title": "Maria Mariah",
+      "artist": "Luanzinho, MC Meno Dani",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Maria Mariah.mp3",
+      "coverUrl": "https://i.postimg.cc/FsCSvZyh/mariah.webp"
+    },
+    {
+      "title": "Tudo de Bom",
+      "artist": "Mc Livinho",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Tudo de Bom.mp3",
+      "coverUrl": "https://i.postimg.cc/bw2hJytB/Livinho.webp"
+    },
+    {
+      "title": "Perito no Ofício",
+      "artist": "MC Boy do Charmes",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Perito no Ofício.mp3",
+      "coverUrl": "https://i.postimg.cc/MG28fC7b/boy.webp"
+    },
+    {
+      "title": "Nosso Amor",
+      "artist": "MC Pedrinho",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Nosso Amor.mp3",
+      "coverUrl": "https://i.postimg.cc/q7Vd6Ps5/Pedrinho.webp"
+    },
+    {
+      "title": "Lei do Retorno",
+      "artist": "Mc Don Juan, MC Hariel",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Lei do Retorno.mp3",
+      "coverUrl": "https://i.postimg.cc/Vkb86fCH/don.webp"
+    },
+    {
+      "title": "Fazer Falta",
+      "artist": "Mc Livinho, Perera DJ",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Fazer Falta.mp3",
+      "coverUrl": "https://i.postimg.cc/bw2hJytB/Livinho.webp"
+    },
+    {
+      "title": "Cheia de Marra",
+      "artist": "Mc Livinho",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Cheia de Marra.mp3",
+      "coverUrl": "https://i.postimg.cc/bw2hJytB/Livinho.webp"
+    },
+    {
+      "title": "Cavalo de Tróia",
+      "artist": "Mc Kevin",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Cavalo de Tróia.mp3",
+      "coverUrl": "https://i.postimg.cc/MG28fC7N/Mc-Kevin.webp"
+    },
+    {
+      "title": "Azul Piscina",
+      "artist": "Mc Livinho",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Azul Piscina.mp3",
+      "coverUrl": "https://i.postimg.cc/bw2hJytB/Livinho.webp"
+    },
+    {
+      "title": "Amar Amei",
+      "artist": "Mc Don Juan",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Amar Amei.mp3",
+      "coverUrl": "https://i.postimg.cc/jSJb5x73/juan.webp"
+    },
+    {
+      "title": "Cachorrinha de Madame",
+      "artist": "DJ Duarte, DJ TS, Mc Gw, Pollini, Prime Funk",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Funk (Deluxe)/Cachorrinha de Madame.mp3",
+      "coverUrl": "https://i.postimg.cc/fyfx1g8R/duarte.webp"
+    }
+      ]
+    },
+    
+    {
+      "title": "Top coleção",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/fbBPbDCG/Way-Back-Home.webp",
+      "songs": [
+         {
+      "title": "After Dark",
+      "artist": "Mr Kitty",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Mr.Kitty - After Dark.mp3",
+      "coverUrl": "https://i.postimg.cc/RFyWqkDS/After-Dark.webp"
+    },
+    {
+      "title": "After Dark BR",
+      "artist": "Kim Saisse, Mr Kitty",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/After Dark BR.mp3",
+      "coverUrl": "https://i.postimg.cc/hGwXt9Dr/After-Dark.webp"
+    },
+    {
+      "title": "After Dark",
+      "artist": "Ocean Black",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/After Dark.mp3",
+      "coverUrl": "https://i.postimg.cc/X7mYLGQJ/After-Dark.webp"
+    },
+    {
+      "title": "That's Who I Praise",
+      "artist": "Brandon Lake",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/That's Who I Praise.mp3",
+      "coverUrl": "https://i.postimg.cc/76hgnk4H/That-s-Who-I-Praise.webp"
+    },
+    {
+      "title": "Stay",
+      "artist": "The Kid Laroi, Justin Bieberr",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/STAY.mp3",
+      "coverUrl": "https://i.postimg.cc/4xtZn7Hr/Stay.webp"
+    },
+    {
+      "title": "Anyone",
+      "artist": "Justin Bieber",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Anyone.mp3",
+      "coverUrl": "https://i.postimg.cc/tJ0Nqc0b/Anyone.webp"
+    },
+    {
+      "title": "Control",
+      "artist": "Romee Storm",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Control.mp3",
+      "coverUrl": "https://i.postimg.cc/g0CZ86g1/Control.webp"
+    },
+    {
+      "title": "The Nights",
+      "artist": "Avicii",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/The Nights.mp3",
+      "coverUrl": "https://i.postimg.cc/ht9WckH4/The-Nights.webp"
+    },
+    {
+      "title": "Hall of Fame",
+      "artist": "The Script, William",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Hall of Fame.mp3",
+      "coverUrl": "https://i.postimg.cc/cL6gzcjj/Hall-of-Fame.webp"
+    },
+    {
+      "title": "Slip Away",
+      "artist": "Johnny Valentine",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Slip Away.mp3",
+      "coverUrl": "https://i.postimg.cc/NMxjFySR/Slip-Away.webp"
+    },
+    {
+      "title": "Way Back Home",
+      "artist": "Cassiopeia",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Way Back Home.mp3",
+      "coverUrl": "https://i.postimg.cc/fbBPbDCG/Way-Back-Home.webp"
+    }
+      ]
+    },
+    
+    {
+      "title": "Crossover",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp",
+      "songs": [
+      {
+      "title": "Good Night",
+      "artist": "Dayystar",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Good Night.mp3",
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+    },
+    {
+      "title": "Love Dies Slow",
+      "artist": "Dayystar",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Love Dies Slow.mp3",
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+    },
+    {
+      "title": "Sunflower",
+      "artist": "Post Malone, Swae Lee",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Sunflower.mp3",
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+    },
+    {
+      "title": "Let's Go",
+      "artist": "Post Malone, Beau Young Prince",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Let's Go.mp3",
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+    }
+      ]
     },
     {
       "title": "Top Rock (Clássic)",
@@ -743,7 +1471,206 @@
       "title": "Funk (MIX)",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/fRgNc9nQ/Funk.webp",
-      "songs": []
+      "songs": [
+      {
+        "title": "Coração Já Superou",
+        "artist": "Mc Braian, Mc Arizinho, Vitin Do MT & MC CARLINN",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Coração Já Superou.mp3",
+        "coverUrl": "https://i.postimg.cc/Dyb2PZNr/Coracao-Ja-Superou.webp"
+      },
+      {
+        "title": "Alegra",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Alegra.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/R-7VnbuxgTwCIpJKZXFyLZZXhrIm5q1X555SQyEdy1G-InnWSiB-73XGLb-APdcSKnNqdr9R-9RMvPUnbQ=w544-h544-l90-rj"
+      },
+      {
+        "title": "Amanheceu",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Amanheceu.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/cecA_P-AyPbSSnSlDy7QfbgXumVXEpy7RRrB8WWUMdJ5UUiesPu6cMBvbEh4QUrkuU7IeHqbQotaI8iU=w544-h544-l90-rj"
+      },
+      {
+        "title": "Aprendi Maldade Com Essa Maldita",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Aprendi Maldade Com Essa Maldita.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/bj0JW0LlYNiUI_O2wHazEzsvT5cYHJsgJjUBtUUqqndTdFs8bSl7QMioTm-0r6Xdn2DdSIUJkyU1JP0E=w544-h544-l90-rj"
+      },
+      {
+        "title": "Bate Palma Com a Bunda",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Bate Palma Com a Bunda.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/jrpUWdTJkMIA1dTfWdatKX_XQiq3QxPs4ovdoXSCVtMl2l8_KJktOf_ZFXRC8wMOU2CJG78LrkaLNQs=w544-h544-l90-rj"
+      },
+      {
+        "title": "Bela Dupla",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Bela Dupla.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/YVFLhfWPqJNwxd5Kzy6i7ormcxpVXnH4e2MEEYBI112X1iXyBwtLjRicSpsGsISdAvgUs3v6pRBzip0=w544-h544-l90-rj"
+      },
+      {
+        "title": "Climinha De Chuva",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Climinha De Chuva.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/x6BUHcEKh1swGhyuwTDqW61Zi8ca1Wb8nap5BC-FN5tW4iyBFUnu_q1eBmRJR-XXnRrKgF6DAhQRSBY=w544-h544-l90-rj"
+      },
+      {
+        "title": "Ela é Gata Demais",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Ela é Gata Demais.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/oc_4z2wR9cgQLCPO55L_zQtFsOdlgzO5hxIRb1ohJnGLCgRJfjnu4QBVDx8OS65FGLT88dEkEQmhvuOmew=w544-h544-l90-rj"
+      },
+      {
+        "title": "Então Joga o Bundão",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Então Joga o Bundão.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/oc_4z2wR9cgQLCPO55L_zQtFsOdlgzO5hxIRb1ohJnGLCgRJfjnu4QBVDx8OS65FGLT88dEkEQmhvuOmew=w544-h544-l90-rj"
+      },
+      {
+        "title": "Espetacular",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Espetacular.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/0B7RX8YtWaTdKpSgwop9GBr4JlQ_xev6BEsN1CfjsozoaSBaNpX1WZKq1u2P9Y1i0vOJts_4-OcPRvMH=w544-h544-l90-rj"
+      },
+      {
+        "title": "Mais Tarde Tem Baile",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Mais Tarde Tem Baile.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/Ma1BlvA1GpslMO3axUfGmJjt8MvKFdr0qeK99lJsDxI-lXr2wrBbBEr1HLnz3dBNdl1uK0PzMwTXwuoa=w544-h544-l90-rj"
+      },
+      {
+        "title": "Nem Perguntei Seu Nome",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Nem Perguntei Seu Nome.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/yOV1JaSYaaongfDOMSx2NwTuAnO8qsd_Jh7256UOrUuFibf3xgBqZBKJRxB_QNshKRjGVUv2wT8t3wc0=w544-h544-l90-rj"
+      },
+      {
+        "title": "Não Dá pra Negar",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Não Dá pra Negar.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/OyXDLUBrqq-ETKqAJcH6mMJ643hq9LTEb7LiZ9kqTAW9Px_STh1mgwIrTxGJLr346oPIg2Jw_fSZ-Ek=w544-h544-l90-rj"
+      },
+      {
+        "title": "O Que Que Tá Acontecendo",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/O Que Que Tá Acontecendo.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/m_36hT0_JjQm1KCvtgls8pild_MNqG1_iWBBK4haP7bvAO97zFJ_oLZ2xZS5mBH0iOpCzXLijtxC8tTbLg=w544-h544-l90-rj"
+      },
+      {
+        "title": "O Que Que Tá Acontecendo 2",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/O Que Que Tá Acontecendo 2.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/iVgApYcHlVC5IXhEZx3hWDeblIu3YaM0E4-_x91wF6d8O-B2vly6ZUnnDB2Wxi7qDm2MMsJ7Kpo2w_Vq1w=w544-h544-l90-rj"
+      },
+      {
+        "title": "Olha Como Ela é Gata - Silicone",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Olha Como Ela é Gata - Silicone.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/XUC6zH9qgFdptRAFZYel-4WtNu2chT6jdILKVwP3GJUE9hqSlN0zHPZYnH1DGk7BB6YlWzH3bgpIbiU=w544-h544-l90-rj"
+      },
+      {
+        "title": "Paraíso",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Paraíso.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/LaARqyyJ8eC01QxY4R79NLxzSVEU4IYai3tdmEJhmPMSFLDgITwoqvfznmh4PNXR6LLO_R0HHq7yT_LC=w544-h544-l90-rj"
+      },
+      {
+        "title": "Plano Perfeito",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Plano Perfeito.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/Czb1fKMlMY7apn0HJ5800CPKhUjh8I2J8BEVSvYAn1kOGDEvuoJsHM7H4669Tn9w675mwn9ZCa_UHVE=w544-h544-l90-rj"
+      },
+      {
+        "title": "Postura",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Postura.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/0g1c1ui7xWv1CWzvuGcNYDKV4mCuiNn6iMI-wl8e0MVt0tzG7DzOVsG3U_IUVT6D0LRbsoKvW3w3dig=w544-h544-l90-rj"
+      },
+      {
+        "title": "Quadradinho",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Quadradinho.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/q9QYMUgDnN8wvxge33_HKIk-XJ45L4a_fCr28q4P5DXWeVaX5QqO5IpSXPdsvtU9y9TpYE8vQmCVFs4maA=w544-h544-l90-rj"
+      },
+      {
+        "title": "Se Quiser Me Ver",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Se Quiser Me Ver.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/tYW1DI00SeDzfymkuLe5pv1iY9S6i-eHx60obM4eVn9lWy-3QRUAB-9bw9I1FNA_5qEZpO2tNx4qBMVa=w544-h544-l90-rj"
+      },
+      {
+        "title": "Se Tu Quer Replay",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Se Tu Quer Replay.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/ssAasgaFoY48iBBK-GvYMrLWk5ISUdAONce6YM_lEIcOs_80OdMO92EIz85cxcVzHrxte3h7dtTBuEUE=w544-h544-l90-rj"
+      },
+      {
+        "title": "Segue o Baile",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Segue o Baile.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/1wWGVwclvZt6ImwZ-PasmX5RI9lz85kjvIVihFwBIUP9Sl5uqoaiyRoxurnSgbkmRn1RGClnm4tOPJhK=w544-h544-l90-rj"
+      },
+      {
+        "title": "Sequência de Botadão",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Sequência de Botadão.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/oc_4z2wR9cgQLCPO55L_zQtFsOdlgzO5hxIRb1ohJnGLCgRJfjnu4QBVDx8OS65FGLT88dEkEQmhvuOmew=w544-h544-l90-rj"
+      },
+      {
+        "title": "Tatuagem da Borboleta",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Tatuagem da Borboleta.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/oYtCC-tMIKwiDwB64q9l06UbfVy0tU6ezLCWwZMuBULT_I5YxFX3jZSI0YmULg3V9igJ5zWSkGT5OB9I3w=w544-h544-l90-rj"
+      },
+      {
+        "title": "Tava Escrito nas Estrelas",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Tava Escrito nas Estrelas.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/Ggbt9BbsuFghahO54NkCdt4PJioxgT-vA9pn6wjCcawSTq-fh7VK0KSZ1GL14JKtDAP5DJnd4Vl3JGLAsw=w544-h544-l90-rj"
+      },
+      {
+        "title": "Te Resetei",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Te Resetei.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/FFeppIUt-NXinZFojwLiYB0tkaOuGeQJOXXuTI2_SLZPHi6mqbip8G2DU7et-WjtpiCnXac3u15biSg=w544-h544-l90-rj"
+      },
+      {
+        "title": "Te Sarrei No Baile",
+        "artist": "Mc Pepeu, Mc Arizinho, Vitin Do MT, MC Gueguel",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Te Sarrei No Baile.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/1znyXFBbW2kpe5aBOiyfdIyjjm0-FghSwSgcLEB67jYihHRoh0Z2j3MTPy_yzoFx_7oJD_UoA_1jEtq3=w544-h544-l90-rj"
+      },
+      {
+        "title": "Toma Botadinha",
+        "artist": "MC Arizinho",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Toma Botadinha.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/Nv0yUX8Fh3qsXQYuuF01qT1LjT-4-BsZR-t8N0YoWD5OF24xDTvJWQYbGmJ4lE9cXynSNnh9md13gsjR=w544-h544-l90-rj"
+      },
+      {
+        "title": "Vem pro Seu Novin",
+        "artist": "Mc Arizinho, Mc Negralha, Dj Kik Prod",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Vem pro Seu Novin.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/eD_21kE8HaXf48cVFzUg1U72fjwyGd2tyLu83cul84Wnv9WIwL-uZcc9skQoGG2qAT--E_P1w34R5Tse=w544-h544-l90-rj"
+      },
+      {
+        "title": "Você Representa",
+        "artist": "Mc Arizinho, DJ TAK VADIÃO, Vitin do Mt",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Você Representa.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/EmbKCSMtC_7NK4eMpEn2mOe9WDkUcUAqwccyN0CuFyhqfB9YR50CRWgs-09B7fGMHVRFxMdhHaEXcslI=w544-h544-l90-rj"
+      },
+      {
+        "title": "É Que Eu Te Sarrei",
+        "artist": "DJ THG, Mc Arizinho, Tavin",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/É Que Eu Te Sarrei.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/m-skSa-8rx1XeiLed9BQEpYm3TCDHRHxfl4d8UmEqKMos2CqqluMOblm3KhlW4LNLvHdMmlwBPvzNEFb0g=w544-h544-l90-rj"
+      },
+      {
+        "title": "Único Erro",
+        "artist": "Mc Arizinho, DJ TAK VADIÃO",
+        "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Único Erro.mp3",
+        "coverUrl": "https://lh3.googleusercontent.com/6qF_A3xxSt0MYaol5MEqdjsIf_i2Olr5tUTvGIiNZqvn87iRqJYqWsjA8Is4Gr93rVkZgmkoVTK2xTfkVw=w544-h544-l90-rj"
+      }
+      ]
     },
     {
       "title": "Hip-Hop",
@@ -1428,19 +2355,340 @@
       "title": "As Melhores",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/C1MmmJLK/Wallker.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Sorry.mp3",
+      "coverUrl": "https://i.postimg.cc/BvB2vLGt/Sorry.webp"
+    },
+    {
+      "title": "Ghost",
+      "artist": "Justin Bieber",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Ghost.mp3",
+      "coverUrl": "https://i.postimg.cc/zG177R5k/ghost.webp"
+    },
+    {
+      "title": "Kiss Me",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Kiss Me.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Better Days",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Better Days.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Ma Chérie",
+      "artist": "DJ Antoine, The Beatshakers",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Ma Chérie.mp3",
+      "coverUrl": "https://i.postimg.cc/hG5zLB41/DJA.webp"
+    },
+    {
+      "title": "What The Hell",
+      "artist": "Avril Lavigne",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/What The Hell.mp3",
+      "coverUrl": "https://i.postimg.cc/4yK16PT9/wth.webp"
+    },
+    {
+      "title": "Don't Leave Me Now",
+      "artist": "Lost Frequencies",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Don't Leave Me Now.mp3",
+      "coverUrl": "https://i.postimg.cc/zv0VfZQH/Lost-Frequencies.webp"
+    },
+    {
+      "title": "Knockout",
+      "artist": "Tungevaag",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Knockout.mp3",
+      "coverUrl": "https://i.postimg.cc/KYfPMVCT/1000479222-2.webp"
+    }
+      ]
     },
     {
       "title": "Trilha Sonora de Games",
       "creator": "Wallker",
       "coverUrl": "https://lh3.googleusercontent.com/IQGhWCevU2O7RirrVbKjQAnMYZLq65feHqTPmakpQ0fAWLPxpwMrVF5UHi_elfZgw6g-MxpmSdLrD20=w544-h544-l90-rj",
-      "songs": []
+      "songs": [
+      {
+      "title": "The Flames Of Fate",
+      "artist": "Naraka: Bladepoint",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/GamesXD/The Flames Of Fate.mp3",
+      "coverUrl": "https://i.postimg.cc/R09MyGQW/nk.webp"
     },
     {
-      "title": "Sonder(2023)",
+      "title": "From the Ashes",
+      "artist": "Naraka: Bladepoint",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/GamesXD/From the Ashes.mp3",
+      "coverUrl": "https://i.postimg.cc/d35rXLTp/jjlin.webp"
+    },
+    {
+      "title": "The Bullet Or The Blade",
+      "artist": "Capcom",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/GamesXD/The Bullet Or The Blade.mp3",
+      "coverUrl": "https://i.postimg.cc/kGTKZBt0/re4.webp"
+    },
+    {
+      "title": "Through the Darkness",
+      "artist": "Capcom",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/GamesXD/Through the Darkness.mp3",
+      "coverUrl": "https://i.postimg.cc/fbdb3ntm/re9.webp"
+    }
+      ]
+    },
+    {
+      "title": "Dermot Kennedy",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp",
-      "songs": []
+      "songs": [
+       {
+      "title": "A Closeness",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/A Closeness.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "After Rain",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/After Rain.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "All My Friends",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/All My Friends.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Already Gone",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Already Gone.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "An Evening I Will Not Forget",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/An Evening I Will Not Forget.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Any Love",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Any Love.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Better Days",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Better Days.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Blossom",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Blossom.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Couldn't Tell",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Couldn't Tell.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Dancing Under Red Skies",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Dancing Under Red Skies.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Days Like This",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Days Like This.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Divide",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Divide.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Don't Forget Me",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Don't Forget Me.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Dreamer",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Dreamer.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "For Island Fires and Family",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/For Island Fires and Family.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Giants",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Giants.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Glory",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Glory.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Homeward",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Homeward.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Innocence and Sadness",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Innocence and Sadness.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Kiss Me",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Kiss Me.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Lessons",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Lessons.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Lost",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Lost.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Lucky",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Lucky.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Moments Passed",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Moments Passed.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "One Life",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/One Life.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Outgrown",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Outgrown.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Outnumbered",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Outnumbered.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Paradise",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Paradise.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Power Over Me",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Power Over Me.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Redemption",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Redemption.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Rome",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Rome.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Shelter",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Shelter.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Something to Someone",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Something to Someone.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Sunday",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Sunday.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Temptation",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Temptation.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "The Corner",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/The Corner.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "The Killer Was a Coward",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/The Killer Was a Coward.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Two Hearts",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Two Hearts.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "What Have I Done",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/What Have I Done.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Without Fear",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Without Fear.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    },
+    {
+      "title": "Young & Free",
+      "artist": "Dermot Kennedy",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Dermot Kennedy/Young & Free.mp3",
+      "coverUrl": "https://i.postimg.cc/NfbFJ3vV/dm.webp"
+    }
+      ]
     },
     {
       "title": "Pisadinha do Vaqueiro",
@@ -1663,70 +2911,717 @@
       ]
     },
     {
-      "title": "Sofrencia",
+      "title": "Nadson O Ferinha",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Duas",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Duas.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Nosso Quadro",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Nosso Quadro.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Casa de Milhões",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Casa de Milhões.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Te Quero pra Mim",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Te Quero pra Mim.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Só Falta Eu",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Só Falta Eu.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "A Culpa É Nossa",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/A Culpa É Nossa.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Depois do Universo",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Depois do Universo.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Investe em Mim",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Investe em Mim.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Ainda Bem",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Ainda Bem.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    },
+    {
+      "title": "Cuidado",
+      "artist": "Nadson O Ferinha",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Nadson O Ferinha/Cuidado.mp3",
+      "coverUrl": "https://i.postimg.cc/tJf0tDKW/Nadson.webp"
+    }
+      ]
     },
     {
       "title": "RBD",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Ensina-me",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Ensina-me.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
     },
     {
-      "title": "Ruby",
+      "title": "Fique Em Silêncio",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Fique Em Silêncio.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Fuego",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Fuego.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Futuro Ex - Novio",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Futuro Ex - Novio.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Otro Día Que Va",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Otro Día Que Va.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Quando O Amor Acaba",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Quando O Amor Acaba.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Querer-te",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Querer-te.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Rebelde",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Rebelde - Versão Português.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Salva-me",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Salva-me.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    },
+    {
+      "title": "Um Pouco Desse Amor",
+      "artist": "RBD",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Rebelde/Um Pouco Desse Amor.mp3",
+      "coverUrl": "https://i.postimg.cc/qMr4pZvx/RBD.webp"
+    }
+      ]
+    },
+    {
+      "title": "Naya Ruby",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/PqNHyC5w/Naya-Ruby.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Backyard",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Backyard.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
     },
     {
-      "title": "Clássico",
+      "title": "Cat Song",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Cat Song.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Coming Back to You",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Coming Back to You.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Dream On",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Dream On.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Ghost By Your Side",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Ghost By Your Side.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Girl on the Moon",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Girl on the Moon.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Great Ocean Road",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Great Ocean Road.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Solar",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Solar.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Sorrow",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Sorrow.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Sparkle",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Sparkle.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Velvet Walk",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Velvet Walk.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    },
+    {
+      "title": "Wishing Tree",
+      "artist": "Naya",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Wishing Tree.mp3",
+      "coverUrl": "https://i.postimg.cc/PqNHyC5w/naya.webp"
+    }
+      ]
+    },
+    {
+      "title": "Sertanejo (Clássic)o",
       "creator": "Wallker",
       "coverUrl": "https://lh3.googleusercontent.com/kPg1_jc6u5hrAnhau7j60BjiCWzkFTGKpgBqWGtOQXgp6F1Vdn2DBca0T2w-O5D18fl7GyaECiNEtyEIiw=w544-h544-l90-rj",
-      "songs": []
+      "songs": [
+      {
+      "title": "Chuva",
+      "artist": "João Bosco & Vinicius",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Chuva.mp3",
+      "coverUrl": "https://i.postimg.cc/t4fHMF2K/Chuva.webp"
     },
     {
-      "title": "Sem Resposta",
+      "title": "Na Linha do Tempo",
+      "artist": "Victor & Leo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Na Linha do Tempo.mp3",
+      "coverUrl": "https://i.postimg.cc/Ssh3BdCh/Na-Linha-do-Tempo.webp"
+    },
+    {
+      "title": "Destino",
+      "artist": "Lucas Lucco",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Destino.mp3",
+      "coverUrl": "https://i.postimg.cc/wTZfKFY2/Destino.webp"
+    },
+    {
+      "title": "Pássaro De Fogo",
+      "artist": "Paula Fernandes",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Pássaro De Fogo.mp3",
+      "coverUrl": "https://i.postimg.cc/W3vdKdnk/paula.webp"
+    },
+    {
+      "title": "Loka",
+      "artist": "Simone & Simaria, Anitta",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Loka.mp3",
+      "coverUrl": "https://i.postimg.cc/ZY9swX1h/Loka.webp"
+    },
+    {
+      "title": "Açúcar em Mim",
+      "artist": "Pedro Paulo & Alex",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Açúcar em Mim.mp3",
+      "coverUrl": "https://i.postimg.cc/6pzhWhDr/Acucar-em-Mim.webp"
+    },
+    {
+      "title": "Água de Oceano",
+      "artist": "Victor & Leo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Água de Oceano.mp3",
+      "coverUrl": "https://i.postimg.cc/QdNpyTHt/Agua-de-Oceano.webp"
+    },
+    {
+      "title": "Varinha Mágica",
+      "artist": "Pedro Henrique & Fernando",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Varinha Mágica.mp3",
+      "coverUrl": "https://i.postimg.cc/Y2fLBScy/Varinha-Magica.webp"
+    },
+    {
+      "title": "Tudo Que Você Quiser",
+      "artist": "Luan Santana",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Tudo Que Você Quiser.mp3",
+      "coverUrl": "https://i.postimg.cc/pdfR5pJg/Tudo-Que-Voce-Quiser.webp"
+    },
+    {
+      "title": "Pegada Que Desgrama",
+      "artist": "Naiara Azevedo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Pegada Que Desgrama.mp3",
+      "coverUrl": "https://i.postimg.cc/8CHxVWHC/Pegada-Que-Desgrama.webp"
+    },
+    {
+      "title": "O Tempo Não Apaga",
+      "artist": "Victor & Leo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/O Tempo Não Apaga.mp3",
+      "coverUrl": "https://i.postimg.cc/ZYdtW9Ys/O-Tempo-Nao-Apaga.webp"
+    },
+    {
+      "title": "Jeito Carinhoso",
+      "artist": "Jads & Jadson",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Jeito Carinhoso.mp3",
+      "coverUrl": "https://i.postimg.cc/dQm6Nv5J/Jeito-Carinhoso.webp"
+    },
+    {
+      "title": "Ex do Seu Atual",
+      "artist": "Naiara Azevedo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Ex do Seu Atual.mp3",
+      "coverUrl": "https://i.postimg.cc/hPXJz1zp/naz.webp"
+    },
+    {
+      "title": "Boa Sorte Pra Você",
+      "artist": "Victor & Leo",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Boa Sorte Pra Você.mp3",
+      "coverUrl": "https://i.postimg.cc/QdNpyTHt/Agua-de-Oceano.webp"
+    }
+      ]
+    },
+    {
+      "title": "Luka - Sem Resposta",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/HkSNLMK2/luka.webp",
-      "songs": []
+      "songs": [
+       {
+      "title": "Porta aberta",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Porta aberta.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
     },
     {
-      "title": "Love Funk",
+      "title": "Tô nem aí",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Tô nem aí.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
+    },
+    {
+      "title": "Sem resposta",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Sem resposta.mp3",
+      "coverUrl": "https://i.postimg.cc/HkSNLMK2/luka.webp"
+    },
+    {
+      "title": "Céu de Diamantes",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Céu de Diamantes.mp3",
+      "coverUrl": "https://i.postimg.cc/QMCdBpM5/luka.webp"
+    },
+    {
+      "title": "Nada leve",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Nada leve.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
+    },
+    {
+      "title": "A aposta",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/A aposta.mp3",
+      "coverUrl": "https://i.postimg.cc/HkSNLMK2/luka.webp"
+    },
+    {
+      "title": "Você Me Olha",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Você Me Olha.mp3",
+      "coverUrl": "https://i.postimg.cc/QMCdBpM5/luka.webp"
+    },
+    {
+      "title": "Difícil pra você",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Difícil pra você.mp3",
+      "coverUrl": "https://i.postimg.cc/nL9tbTzd/luka.webp"
+    },
+    {
+      "title": "Livro Aberto",
+      "artist": "Luka",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Luka (MIX)/Livro Aberto.mp3",
+      "coverUrl": "https://i.postimg.cc/QMCdBpM5/luka.webp"
+    }
+      ]
+    },
+    {
+      "title": "Gabi Saiury - Love Funk",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/L50g2YTZ/gaby.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Cheiro de Mato",
+      "artist": "Gabi Saiury, Kotim & MC Paiva ZS",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Cheiro de Mato.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/3Z3v-mLTZ99X48pJbEqZg0njWCqtM3jLyAZsmfGaZLo6NHNf0JCNHnpJ4srXFYN-080rriauclckziI=w544-h544-l90-rj"
+    },
+    {
+      "title": "Coração Quebrado",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Coração Quebrado.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/iruD8PV2u7uKl5MEznqjNjiXoS40NOJxmiqQR9GlGIBDKpS5QePYs8sdnbNdjBtl2WSvasm4zwFtleZ9Yg=w544-h544-l90-rj"
+    },
+    {
+      "title": "Cê Não Tem Moral",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Cê Não Tem Moral.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/_Z7aQwisPt6bJ1sviCd7K5bPSmaF0_DYEs_-qc4VY32n3byiUVNlX8SeZz9JJP6R_g2nOshdGjpyHubWwg=w544-h544-l90-rj"
+    },
+    {
+      "title": "Erro Vitalício",
+      "artist": "Gabi Saiury, MC Paiva ZS & Paula Guilherme",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Erro Vitalício.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/-wUcqHhwql9AieXAsHvCpti1p0CRGu8Z5SIbax7KFTk9hOPNPtIn7bC8ETm8UraSLD8BV-g8oXxZMdIH=w544-h544-l90-rj"
+    },
+    {
+      "title": "Fabricada na Roça",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Fabricada na Roça.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/8dpVCNgAmSWgf8ZjSbV6Bl-po-8Lqgjiix20Nvp5ixIUudK6fPmc4LogoMu6Y-6WllW5ysHTG9pSzUTPDQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Galopada Violenta",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Galopada Violenta.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/V08hHYoIydhCO2XW3n1hTIpPT7L85GPU_S2097F6VuaUTfX8PmO7sTg9nYrOryeuyS6cdlbQjRY-JN0=w544-h544-l90-rj"
+    },
+    {
+      "title": "Nos É Agro",
+      "artist": "Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Nos É Agro.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/Odb2R-DXjwx9lk8muy-RD38KZsoA0S8XJWyYJg1m6OeVDVX1D8cxsupr2bMLVR-5ACIaJ1OsIhkWdgsk=w544-h544-l90-rj"
+    },
+    {
+      "title": "Pulseira da Pandora",
+      "artist": "Vitória Freitas & Gabi Saiury",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Pulseira da Pandora.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/G7DE6ZAmeW-GAQCvoKUjSSbcqPu6WHoYh4ViiE-tjnihWLdRNLUPDyakRPq5WCMJPCNepUdngtkzyxQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Querendo ou Não",
+      "artist": "Gabi Saiury, Japinha Conde & Jonatas Nascimento",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Gabi Saiury/Querendo ou Não.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/OyyaVucCCKttbJj8bsm-VDhd1MOX9eHDL7vTvmXhU7Sja3Qcaim3ZgjRmcFtcCyA5uqRO1ntgRHvbQQ=w544-h544-l90-rj"
+    }
+      ]
     },
     {
       "title": "Banda KLB",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Giuliana",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Giuliana.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Porque Tem Que Ser Assim",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Porque Tem Que Ser Assim.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Olhar 43",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Olhar 43.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Minha Timidez",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Minha Timidez.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "A Cada Dez Palavras",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/A Cada Dez Palavras.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Um Anjo",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Um Anjo.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "A Dor Desse Amor",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/A Dor Desse Amor.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Ela Não Está Aqui",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Ela Não Está Aqui.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Estou Em Suas Mãos",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Estou Em Suas Mãos.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    },
+    {
+      "title": "Obsessão",
+      "artist": "KLB",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/KLB/Obsessão.mp3",
+      "coverUrl": "https://i.postimg.cc/VkDm8zCb/klb.webp"
+    }
+      ]
     },
     {
       "title": "Forró do Imperador",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp",
-      "songs": []
+      "songs": [
+       {
+      "title": "190",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/190.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
     },
     {
-      "title": "Piseiro",
+      "title": "Batom Vermelho",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Batom Vermelho.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Ele Não Merece Você",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Ele Não Merece Você.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Férias em Las Vegas",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Férias em Las Vegas.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "O Lobo",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/O Lobo.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Se Afaste de Mim",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Se Afaste de Mim.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Sou Louco Por Ela",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Sou Louco Por Ela.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    },
+    {
+      "title": "Volta Pra Mim",
+      "artist": "Iohannes Imperador",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Iohannes Imperador/Volta Pra Mim.mp3",
+      "coverUrl": "https://i.postimg.cc/cLrbL0p8/ihoranes.webp"
+    }
+    ]
+    },
+    {
+      "title": "Grego do Piseiro",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/CLcV7yMp/grego.webp",
-      "songs": []
+      "songs": [
+      {
+      "title": "Aquele Love",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Aquele Love.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/fGWWEBHU2QOFRFxkEzR482sU3jV1V9H1DdF-4uQukD1yT6_DgWqTfqqcieEySaNyABgFVY1CKkX6xEtV=w544-h544-l90-rj"
     },
     {
-      "title": "A Fabrica",
+      "title": "Casei com a Revoada",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Casei com a Revoada.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/8SdCdTPZS48PSTY6BtkPwGiT5v3zhukbSB656iYoDGcc8grxjFf-qaBejLvZ88qReXnh6RJqlsiSQGwI=w544-h544-l90-rj"
+    },
+    {
+      "title": "Danada Danadinha",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Danada Danadinha.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/0110Zu_fjz3tZSl51JNfzzZpxSIj2BpBRDq7P9Tg9LAJPlqAWugckpaZfPWCe_DyP37lrwMMjGTBlEq7=w544-h544-l90-rj"
+    },
+    {
+      "title": "Me Diz Quando Vem",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Me Diz Quando Vem.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/F0PTsvp5WoqjYeUqvT5B_sY6YH4WJ5CJ2dA7Wjky2KA5fB7ut8FJ8KFPrVxXXLS5eXsUmr2OB5WfZBs=w544-h544-l90-rj"
+    },
+    {
+      "title": "Pane no Sistema 2",
+      "artist": "Grego do Piseiro",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Pane no Sistema 2.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/lXy9ON9HsGVRdWiM1yApd1WASbiqrhnF58WC9PdBEtDTLQPNLyaWDETzcVgoD3-JkTClWoy9J9KaL5KN=w544-h544-l90-rj"
+    },
+    {
+      "title": "Pane no Sistema",
+      "artist": "Grego do Piseiro & Paulo Pires",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Grego do Piseiro/Pane no Sistema.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/CwFnVlWDyolBLFyrzRX9JEdE52gmzdjDKGG3wotLNb8hISPOWFrmHJ-Nm5fkMH94T36-apTnvykwTos6Dw=w544-h544-l90-rj"
+    }
+      ]
+    },
+    {
+      "title": "Milsinho Toque Dez",
       "creator": "Wallker",
       "coverUrl": "https://lh3.googleusercontent.com/uB6kJXXz7dcbVcqh-JgLUuAaeIiFOEkTIwsOL-m7hOil2vF80sGVQtOydGG6TTeHvsb0TfVjj0Je2s8C=w544-h544-l90-rj",
-      "songs": []
+      "songs": [
+      {
+      "title": "Antes de Ir",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Antes de Ir.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/yFXbE2MBX5KJmDVhGWWMz8jMqup9T9nLzTc6iWG1ENTkZb-JMCbhKZUKhYkwRv_-yzANjWKkkfJD0EXQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Bem Mais Que Eu",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Bem mais que eu.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/A5P8syU_D0iwghdja2Xt43DM-izKGXjHH3DiPpSiccYMT82J53pNHT_idV49bJw_indjrU3P-4dpMyII=w544-h544-l90-rj"
+    },
+    {
+      "title": "Cena de Amor",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Cena de Amor.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/uB6kJXXz7dcbVcqh-JgLUuAaeIiFOEkTIwsOL-m7hOil2vF80sGVQtOydGG6TTeHvsb0TfVjj0Je2s8C=w544-h544-l90-rj"
+    },
+    {
+      "title": "Pensa Direito",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Pensa direito.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/wGlM3Iy2hpWgMuj7ZrL_py3XGOAERS7nm1w1g3eyLe2hNOnVf9olYIwrkqS5qzzymouQxnXMRrgHfFhD=w544-h544-l90-rj"
+    },
+    {
+      "title": "Sou Sua Recaída",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Sou Sua Recaída.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/A5P8syU_D0iwghdja2Xt43DM-izKGXjHH3DiPpSiccYMT82J53pNHT_idV49bJw_indjrU3P-4dpMyII=w544-h544-l90-rj"
+    },
+    {
+      "title": "Traumatizei",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Tramautizei.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/yFXbE2MBX5KJmDVhGWWMz8jMqup9T9nLzTc6iWG1ENTkZb-JMCbhKZUKhYkwRv_-yzANjWKkkfJD0EXQ=w544-h544-l90-rj"
+    },
+    {
+      "title": "Vaqueira",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Vaqueira.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/wGlM3Iy2hpWgMuj7ZrL_py3XGOAERS7nm1w1g3eyLe2hNOnVf9olYIwrkqS5qzzymouQxnXMRrgHfFhD=w544-h544-l90-rj"
+    },
+    {
+      "title": "Você é Mó Bagunçada",
+      "artist": "Milsinho Toque Dez",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Toque Dez/Você é mó bagunçada.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/A5P8syU_D0iwghdja2Xt43DM-izKGXjHH3DiPpSiccYMT82J53pNHT_idV49bJw_indjrU3P-4dpMyII=w544-h544-l90-rj"
+    }
+      ]
+    },
+    {
+      "title": "Cintura de Mola",
+      "creator": "Wallker",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj",
+      "songs": [
+      {
+      "title": "Samara",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Samara.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Me Deixa Doidona",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Me Deixa Doidona.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Que Loucura de Mulher",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Que Loucura de Mulher.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Menina Pavoro",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Menina Pavorô.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Baby Eu Te Amo",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Baby Eu Te Amo.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "É Nóis",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/É Nóis.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
     },
     {
       "title": "Bebinho",
-      "creator": "Wallker",
-      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj",
-      "songs": []
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Bebinho.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Farra É Pra Quem Pode",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Farra É Pra Quem Pode.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Rei da Curtição",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Rei da Curtição.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    },
+    {
+      "title": "Piriguete",
+      "artist": "Cintura de Mola",
+      "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Cintura de Mola/Piriguete.mp3",
+      "coverUrl": "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
+    }
+      ]
     },
     {
       "title": "Funk Brasill",
