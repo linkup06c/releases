@@ -1,5 +1,36 @@
 {
   "playlists": [
+      {
+      "title": "Favoritas",
+      "creator": "Wallker",
+      "coverUrl": "https://i.postimg.cc/d07gNm2G/fvr.webp",
+      "songs": [
+      {
+          "title": "Good Night",
+          "artist": "Dayystar",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Good Night.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Love Dies Slow",
+          "artist": "Dayystar",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Love Dies Slow.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Sunflower",
+          "artist": "Post Malone, Swae Lee",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Sunflower.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        },
+        {
+          "title": "Let's Go",
+          "artist": "Post Malone, Beau Young Prince",
+          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Let's Go.mp3",
+          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
+        }
+      ]
+    },
    {
     "title": "Lançamentos",
       "creator": "Wallker",
@@ -185,37 +216,6 @@
       "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sertanejo (Clássico)/Chuva.mp3",
       "coverUrl": "https://i.postimg.cc/t4fHMF2K/Chuva.webp"
     }
-      ]
-    },
-    {
-      "title": "Favoritas",
-      "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/d07gNm2G/fvr.webp",
-      "songs": [
-      {
-          "title": "Good Night",
-          "artist": "Dayystar",
-          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Good Night.mp3",
-          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
-        },
-        {
-          "title": "Love Dies Slow",
-          "artist": "Dayystar",
-          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Love Dies Slow.mp3",
-          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
-        },
-        {
-          "title": "Sunflower",
-          "artist": "Post Malone, Swae Lee",
-          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Sunflower.mp3",
-          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
-        },
-        {
-          "title": "Let's Go",
-          "artist": "Post Malone, Beau Young Prince",
-          "fileUrl": "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Crossover/Let's Go.mp3",
-          "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp"
-        }
       ]
     },
     {
