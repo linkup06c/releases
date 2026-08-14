@@ -1,7 +1,7 @@
 {
   "playlists": [
-  {
-      "title": "Lançamentos",
+   {
+    "title": "Lançamentos",
       "creator": "Wallker",
       "coverUrl": "https://i.postimg.cc/jjYfD3dB/lancamentos.webp",
       "songs": [
@@ -1130,14 +1130,9 @@
     },
         
     {
-      "title": "Crossover",
-      "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp",
-      "songs": [
-     {
       "title": "Trilha Sonora",
       "creator": "Wallker",
-      "coverUrl": "https://i.postimg.cc/rFnxMb7N/RD.webp
+      "coverUrl": "https://i.postimg.cc/cCtYCdnK/wK.webp",
       "songs": [
     {
       "title": "Quando posso te ver novamente?",
