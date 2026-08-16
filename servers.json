@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Smart TV+",
-    "wsUrl": "wss://x-stream-56ya.onrender.com",
-    "httpUrl": "https://x-stream-56ya.onrender.com",
+    "wsUrl": "wss://nex-tv-vpak.onrender.com",
+    "httpUrl": "https://nex-tv-vpak.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/bwRZZ0Pc/D.webp",
     "iconActive": "",
