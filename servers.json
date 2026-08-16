@@ -24,8 +24,8 @@
   {
     "id": 3,
     "name": "Wallker",
-    "wsUrl": "wss://nexo-zjk4.onrender.com",
-    "httpUrl": "https://nexo-zjk4.onrender.com",
+    "wsUrl": "wss://tv-box-unku.onrender.com",
+    "httpUrl": "https://tv-box-unku.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/BvMJ0M0f/W.webp",
     "iconActive": "",
