@@ -35,8 +35,8 @@
   {
     "id": 4,
     "name": "Joaquim",
-    "wsUrl": "wss://x-stm.onrender.com",
-    "httpUrl": "https://x-stm.onrender.com",
+    "wsUrl": "wss://tv-box3.onrender.com",
+    "httpUrl": "https://tv-box3.onrender.com",
     "description": "Privado",
     "iconNormal": "https://i.postimg.cc/PJBt7Jky/F.webp",
     "iconActive": "",
