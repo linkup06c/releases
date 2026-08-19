@@ -1,32 +1,76 @@
 {
   "streaming_app": {
-    "destaques": [
+    "categories": ["Filmes", "Séries", "Esportes", "TV ao vivo"],
+    "hero_banner": {
+      "id": "hero_01",
+      "title": "REACHER",
+      "badge": "NOVO EPISÓDIO",
+      "badge_sub": "Novo episódio quarta-feira",
+      "promo": "Período de teste gratuito do Prime",
+      "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    "sections": [
       {
-        "id": "mov_001",
-        "tipo": "filme",
-        "titulo": "Spider Noir",
-        "sinopse": "O detetive particular Ben Reilly é contratado para casos simples, até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado...",
-        "capa": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-        "banner": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "section_title": "As melhores escolhas de hoje para você",
+        "items": [
+          {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "Missão Refúgio",
+            "tag": "TOP 10",
+            "synopsis": "An elite operative must protect a vital asset across hostile territories under extreme pressure.",
+            "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+            "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+            "id": "mov_02",
+            "type": "movie",
+            "title": "Devoradores de Estrelas",
+            "tag": "TOP 10",
+            "synopsis": "A space mission faces unknown cosmic anomalies threatening the entire solar system.",
+            "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+            "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+          }
+        ]
       },
       {
-        "id": "ser_001",
-        "tipo": "serie",
-        "titulo": "Reacher",
-        "sinopse": "Uma jornada eletrizante cheia de ação e investigações intensas.",
-        "capa": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-        "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-        "temporadas": [
+        "section_title": "Originais e exclusivos em destaque",
+        "items": [
           {
-            "numero_temporada": 1,
-            "episodios": [
+            "id": "ser_01",
+            "type": "series",
+            "title": "Spider Noir",
+            "synopsis": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres e uma misteriosa femme fatale tecem uma teia perigosa.",
+            "cover_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5",
+            "banner_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5",
+            "release_year": "2026",
+            "seasons_count": 1,
+            "seasons": [
               {
-                "numero_episodio": 1,
-                "titulo": "Novo Episódio",
-                "duracao": "50m",
-                "sinopse": "Tudo começa com uma missão inesperada.",
-                "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+                "season_number": 1,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Entre no meu Escritório",
+                    "duration": "46min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Não vai acabar bem pra você.",
+                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+                    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                  },
+                  {
+                    "episode_number": 2,
+                    "title": "Pisando em Ovos",
+                    "duration": "42min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Você é um investigador. Investigue.",
+                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+                    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+                  }
+                ]
               }
             ]
           }
