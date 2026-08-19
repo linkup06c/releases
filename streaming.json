@@ -1,6 +1,11 @@
 {
   "streaming_app": {
-    "categories": ["Filmes", "Séries", "Esportes", "TV ao vivo"],
+    "categories": [
+      "Filmes",
+      "Séries",
+      "Esportes",
+      "TV ao vivo"
+    ],
     "hero_banner": {
       "id": "hero_01",
       "title": "REACHER",
