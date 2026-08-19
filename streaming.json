@@ -23,21 +23,21 @@
           {
             "id": "mov_01",
             "type": "movie",
-            "title": "Missão Refúgio",
+            "title": "Resident Evil: Degeneração",
             "tag": "TOP 10",
             "synopsis": "An elite operative must protect a vital asset across hostile territories under extreme pressure.",
-            "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+            "cover_url": "https://image.tmdb.org/t/p/original/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
             "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
           },
           {
             "id": "mov_02",
             "type": "movie",
-            "title": "Devoradores de Estrelas",
+            "title": "Resident Evil: A Ilha Fatal (2023)",
             "tag": "TOP 10",
             "synopsis": "A space mission faces unknown cosmic anomalies threatening the entire solar system.",
-            "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+            "cover_url": "https://image.tmdb.org/t/p/original/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
             "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
           }
         ]
