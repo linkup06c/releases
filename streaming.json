@@ -17,602 +17,69 @@
     },
     "sections": [
       {
-        "section_title": "Melhores Séries",
-        "items": [
-          {
-            "id": "ser_01",
-            "type": "series",
-            "title": "The 100",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de the 100.",
-            "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_02",
-            "type": "series",
-            "title": "Sombras do Passado",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de sombras do passado.",
-            "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_03",
-            "type": "series",
-            "title": "Distrito 7",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de distrito 7.",
-            "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_04",
-            "type": "series",
-            "title": "Investigador Noturno",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de investigador noturno.",
-            "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_05",
-            "type": "series",
-            "title": "Sintonia Urbana",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de sintonia urbana.",
-            "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_06",
-            "type": "series",
-            "title": "Protocolo Zero",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de protocolo zero.",
-            "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_07",
-            "type": "series",
-            "title": "Fronteiras Espaciais",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de fronteiras espaciais.",
-            "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_08",
-            "type": "series",
-            "title": "Império de Areia",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de império de areia.",
-            "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_09",
-            "type": "series",
-            "title": "Circuito Fechado",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de circuito fechado.",
-            "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "ser_10",
-            "type": "series",
-            "title": "Linhagem Secreta",
-            "synopsis": "Série imperdível repleta de mistérios e reviravoltas na trama de linhagem secreta.",
-            "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "release_year": "2026",
-            "seasons_count": 2,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Início da Jornada",
-                    "duration": "45min",
-                    "time_info": "HD",
-                    "synopsis": "Primeiro episódio com revelações importantes.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-                    "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "A Conspiração",
-                    "duration": "42min",
-                    "time_info": "HD",
-                    "synopsis": "Segredos vêm à tona colocando todos em perigo.",
-                    "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-                  }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "O Retorno",
-                    "duration": "48min",
-                    "time_info": "HD",
-                    "synopsis": "Uma nova ameaça surge na segunda temporada.",
-                    "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "section_title": "Originais e Exclusivos em Destaque",
+        "section_title": "As melhores escolhas de hoje para você",
+        "layout_type": "landscape",
         "items": [
           {
             "id": "mov_01",
             "type": "movie",
             "title": "Missão Refúgio",
             "tag": "TOP 10",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo missão refúgio.",
+            "synopsis": "An elite operative must protect a vital asset across hostile territories under extreme pressure.",
             "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
             "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
+            "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
           },
           {
             "id": "mov_02",
             "type": "movie",
             "title": "Devoradores de Estrelas",
             "tag": "TOP 10",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo devoradores de estrelas.",
+            "synopsis": "A space mission faces unknown cosmic anomalies threatening the entire solar system.",
             "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
             "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-          },
+            "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
+          }
+        ]
+      },
+      {
+        "section_title": "Originais e exclusivos em destaque",
+        "layout_type": "portrait",
+        "items": [
           {
-            "id": "mov_03",
-            "type": "movie",
-            "title": "Resgate de Elite",
-            "tag": "TOP 10",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo resgate de elite.",
+            "id": "ser_01",
+            "type": "series",
+            "title": "The 100",
+            "synopsis": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres e uma misteriosa femme fatale tecem uma teia perigosa.",
             "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
             "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-          },
-          {
-            "id": "mov_04",
-            "type": "movie",
-            "title": "Código Sombra",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo código sombra.",
-            "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-          },
-          {
-            "id": "mov_05",
-            "type": "movie",
-            "title": "Operação Fronteira",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo operação fronteira.",
-            "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-          },
-          {
-            "id": "mov_06",
-            "type": "movie",
-            "title": "Último Horizonte",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo último horizonte.",
-            "cover_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-          },
-          {
-            "id": "mov_07",
-            "type": "movie",
-            "title": "Alvo Duplo",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo alvo duplo.",
-            "cover_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-          },
-          {
-            "id": "mov_08",
-            "type": "movie",
-            "title": "Redenção Impossível",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo redenção impossível.",
-            "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
-            "banner_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-            "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
-          },
-          {
-            "id": "mov_09",
-            "type": "movie",
-            "title": "Zona de Impacto",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo zona de impacto.",
-            "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
-          },
-          {
-            "id": "mov_10",
-            "type": "movie",
-            "title": "Fúria Urbana",
-            "tag": "DESTAQUE",
-            "synopsis": "Uma trama cheia de ação e suspense envolvendo fúria urbana.",
-            "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
-            "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-            "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
+            "release_year": "2026",
+            "seasons_count": 1,
+            "seasons": [
+              {
+                "season_number": 1,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Entre no meu Escritório",
+                    "duration": "46min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Não vai acabar bem pra você.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
+                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
+                  },
+                  {
+                    "episode_number": 2,
+                    "title": "Pisando em Ovos",
+                    "duration": "42min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Você é um investigador. Investigue.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
