@@ -1,0 +1,37 @@
+{
+  "streaming_app": {
+    "destaques": [
+      {
+        "id": "mov_001",
+        "tipo": "filme",
+        "titulo": "Spider Noir",
+        "sinopse": "O detetive particular Ben Reilly é contratado para casos simples, até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado...",
+        "capa": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+        "banner": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "id": "ser_001",
+        "tipo": "serie",
+        "titulo": "Reacher",
+        "sinopse": "Uma jornada eletrizante cheia de ação e investigações intensas.",
+        "capa": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+        "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+        "temporadas": [
+          {
+            "numero_temporada": 1,
+            "episodios": [
+              {
+                "numero_episodio": 1,
+                "titulo": "Novo Episódio",
+                "duracao": "50m",
+                "sinopse": "Tudo começa com uma missão inesperada.",
+                "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
