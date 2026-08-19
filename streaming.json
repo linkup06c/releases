@@ -18,7 +18,7 @@
     "sections": [
       {
         "section_title": "As melhores escolhas de hoje para você",
-        "layout_type": "landscape",
+        "layout_type": "portrait",
         "items": [
           {
             "id": "mov_01",
@@ -44,7 +44,7 @@
       },
       {
         "section_title": "Originais e exclusivos em destaque",
-        "layout_type": "portrait",
+        "layout_type": "landscape",
         "items": [
           {
             "id": "ser_01",
